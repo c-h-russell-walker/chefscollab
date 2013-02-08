@@ -1,0 +1,13 @@
+# Exclude files from repo
+wp-content/updraft/*
+# wp-content/cache/*
+wp-content/upgrade/*
+wp-content/uploads/*
+# sitemap.*
+wp-config.php
+local.config.php
+
+# Text editor files
+.komodotools/*
+chefscollab.komodoproject
+

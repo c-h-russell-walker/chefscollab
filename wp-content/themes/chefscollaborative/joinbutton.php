@@ -1,0 +1,1 @@
+<li class="joinus"><a href="<?php echo get_permalink(10); ?>"><img src="<?php bloginfo('template_url'); ?>/images/join-us-promo.jpg" width="150" height="150" alt="join now!" /></a></li>
