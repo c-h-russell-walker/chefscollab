@@ -5,8 +5,19 @@ RewriteRule ^wp-admin/includes/ - [F,L]
 RewriteRule !^wp-includes/ - [S=3]
 RewriteRule ^wp-includes/[^/]+\.php$ - [F,L]
 RewriteRule ^wp-includes/js/tinymce/langs/.+\.php - [F,L]
-RewriteRule ^wp-includes/theme-compat/ - [F,L]
 
+# BEGIN W3TC Browser Cache
+<IfModule mod_deflate.c>
+    <IfModule mod_headers.c>
+        Header append Vary User-Agent env=!dont-vary
+    </IfModule>
+        AddOutputFilterByType DEFLATE text/css text/x-component application/x-javascript application/javascript text/javascript text/x-js text/html text/richtext image/svg+xml text/plain text/xsd text/xsl text/xml image/x-icon application/json
+    <IfModule mod_mime.c>
+        # DEFLATE by extension
+        AddOutputFilter DEFLATE js css htm html xml
+    </IfModule>
+</IfModule>
+# END W3TC Browser Cache
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On

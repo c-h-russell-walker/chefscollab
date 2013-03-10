@@ -6,7 +6,6 @@ Template Name: Home
 
 <?php get_header(); ?>
 
-
 <div id="content" class="column">
 				<div class="main">
 					<?php query_posts('pagename=home'); ?>

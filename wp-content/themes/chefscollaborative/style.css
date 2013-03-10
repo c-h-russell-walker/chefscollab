@@ -34,17 +34,17 @@ Author URI: http://www.tashian.com/carl/
 
 #page {
 	position: relative;
-	width: 822px;
-	background: url(images/page-bg-lighter.gif) repeat-y;
+	width: 960px;
+	/*background: url(images/page-bg-lighter.gif) repeat-y;*/
+	background-color: #FFF;
 	margin: 0px auto;
 	text-align: left;
 }
 
 #wrapper {
 	position: relative;
-	width: 432px; /* the width of page-bg, without borders - left & right cols*/
 	margin: 0px auto;
-	padding-left: 177px; /* LC fullwidth */
+	/*padding-left: 177px;*/ /* LC fullwidth */
 	padding-right: 205px; /* RC fullwidth + CC padding/border */
 }
 
@@ -55,17 +55,17 @@ Author URI: http://www.tashian.com/carl/
 
 #content {
 	width: 100%;
-	border-left: 1px solid #808080;
+	border-right: 1px solid #808080;
 	background-color: #fff;
 }
 
 #left {
-  	width: 177px;          /* LC width */
+	width: 177px;          /* LC width */
 	margin-left: -100%;
 }
 
 * html #left {
-  	margin-left: -610px;  /* must be an exact value to fix IE6 bug */
+	margin-left: -610px;  /* must be an exact value to fix IE6 bug */
 }
 
 #wrapper > #left {
@@ -79,11 +79,42 @@ Author URI: http://www.tashian.com/carl/
 }
 
 #footer {
-	border-left: 1px solid #808080;
-	margin-left: 181px; /* LC width + page-bg border */
-	margin-bottom: 50px;
-	width: 400px; /* CC width + RC width */
+	text-align: center;
 	clear: both;
+	margin: 0 auto 50px;
+	color: #333;
+	padding: 5px 15px;
+	font-family: Frutiger, Univers, "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+	font-size: 10px;
+}
+
+#footer div {
+	margin-bottom: 15px;
+	line-height: 40px;
+}
+
+#facebook-footer {
+	text-indent: -9999px;
+	margin-left: 10px;
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	background-image: url(images/facebook-icon-40x40.gif);
+}
+
+#twitter-footer {
+	text-indent: -9999px;
+	margin-left: 10px;
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	background-image: url(images/twitter-icon-small.png);
+}
+
+#facebook-footer:hover,
+#twitter-footer:hover {
+	transform: scale(1.1);
+	opacity: 0.7;
 }
 
 ul.readmore {
@@ -114,7 +145,6 @@ img.center {display: block; margin: 10px auto;}
 img.left {display: inline; margin: 0 10px 5px 0;}
 img.right {display: inline; margin: 0 0 5px 10px;}
 p {margin: 3px 0 15px 0; padding: 0;}
-
 
 .navigation{
 	background: #fff;
@@ -164,7 +194,7 @@ body {
 	position: absolute;
 	width: 200px;
 	height: 160px;
-  	text-decoration: none;
+	text-decoration: none;
 }
 
 #homelink a i { visibility: hidden; }
@@ -176,7 +206,6 @@ body {
 #header h4 {
 	display: none;
 }
-
 
 #header .search {
 	position: absolute;
@@ -283,38 +312,38 @@ h2 {
 /* light gray intro text center column home page block */
 
 .main .intro h2 {
-    font-size: 16px;
-    line-height: 20px;
+	font-size: 16px;
+	line-height: 20px;
 }
 
 .main .intro h3 {
 	color: #484848;
-    background-color: #f4f4f4;
+	background-color: #f4f4f4;
 	font-weight: bold;
-    font-size: 13px;
-    line-height: 18px;
+	font-size: 13px;
+	line-height: 18px;
 	padding: 9px 14px 2px 17px;
 }
 
 .main .intro a.special {
-    display: block;
-    background-color: #f4f4f4;
-    padding: 0 0 5px 17px;
-    margin-bottom: 3px;
+	display: block;
+	background-color: #f4f4f4;
+	padding: 0 0 5px 17px;
+	margin-bottom: 3px;
 }
 
 .main .intro ul {
-    list-style: disc outside;
+	list-style: disc outside;
 	color: #484848;
-    background-color: #f4f4f4;
-    font-size: 13px;
-    margin: 0;
-    padding: 0 0 2px 35px;
+	background-color: #f4f4f4;
+	font-size: 13px;
+	margin: 0;
+	padding: 0 0 2px 35px;
 }
 
 /* WordPress text widget body text */
 .textwidget {
-    padding: 0 10px 0 15px;
+	padding: 0 10px 0 15px;
 }
 
 ul.blogposts {
@@ -323,7 +352,7 @@ ul.blogposts {
 }
 
 ul.blogposts p {
-    margin: 2px 0 5px 0;
+	margin: 2px 0 5px 0;
 }
 
 ul.blogposts img {
@@ -331,11 +360,11 @@ ul.blogposts img {
 }
 
 ul.blogposts li.postimg {
-    float: left;
+	float: left;
 }
 
 ul.blogposts li.postmeta {
-    padding-left: 120px;
+	padding-left: 120px;
 }
 
 .postbox {
@@ -369,7 +398,7 @@ ul.blogposts li.postmeta {
 }
 
 h4 {
-    color: rgb(58, 58, 58);
+	color: rgb(58, 58, 58);
 	font-weight: normal;
 	font-size: 1.2em;
 	margin: 0px 0 0.8em 0;
@@ -420,9 +449,10 @@ a:visited {
 	color: #c13333;
 }
 
-a:hover, a:active {
+a:hover, a:active, a:focus {
 	color: #ff6600;
 	text-decoration: underline;
+	outline: none;
 }
 
 blockquote {
@@ -453,10 +483,10 @@ blockquote {
 }
 
 .textwidget hr {
-    display: block;
-    border: 0;
-    height: 1px;
-    background-color: #ccc;
+	display: block;
+	border: 0;
+	height: 1px;
+	background-color: #ccc;
 }
 
 .invert h2 {
@@ -557,29 +587,6 @@ ul.hl_recent_tweets {
 	text-transform: uppercase;
 }
 
-#footer p.left {
-	color: #333;
-	padding: 0px 15px;
-	font-family: Frutiger, Univers, "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
-	font-size: 10px;
-	float: left;
-	text-align: left;
-}
-
-#footer p.right {
-	color: #333;
-	margin: 0px;
-	padding: 0px 10px;
-	font-size: .8em;
-	float: right;
-	text-align: right;
-}
-
-#footer p a, #footer p a:link {
-	color: #999;
-	text-decoration: underline;
-}
-
 /* adjustments for eggplant image */
 ul li.upcoming h2 {
 	background-position: 0px 16px;
@@ -625,8 +632,7 @@ ul li.upcoming h2 img.arrow,
 
 .highlight {
 	background-color: #ffffff;
-	}
-	
+}	
 
 .alt {
 	background: #EFF4E8 !important; 
@@ -636,7 +642,7 @@ ul li.upcoming h2 img.arrow,
 
 .alt:hover {
 	border: 1px solid #C0D6A3 !important;
-	}
+}
 
 h3#comments, h3#respond {
 	font-size: 14px;
@@ -646,12 +652,12 @@ h3#comments, h3#respond {
 
 .commentlist li:hover {
 	border: 1px solid #C0D6A3;
-	}
+}
 
 .commentlist {
 	padding: 0;
 	margin: 3px;
-	}
+}
 
 .commentlist li {
 	list-style: none;
@@ -660,37 +666,37 @@ h3#comments, h3#respond {
 	border: 1px solid #ffffff;
 	margin: 10px;
 	color: #000000;
-	}
+}
 
 p.metadate {
 	font-size: .8em;
 	margin: 0;
 	padding: 0px;
 	text-transform: uppercase;
-	}
+}
 
 p.comment_meta {
 	margin: 0 0 10px 10px;
 	font-size: .9em;
-	}
+}
 
 .comment_author a:visited {
 	font-weight: bold;
 	text-decoration: none;
-	}
+}
 
 .reply {
 	font-weight: normal;
 	font-size: 1.2em;
 	margin: 10px 0 0 10px;
-	}
+}
 	
 .comments-nice .reply {
 	color: #389307;
 	font-weight: normal;
 	font-size: 1.2em;
 	margin: 0px 0 0 0px;
-	}
+}
 
 .warning p { /* Used on the search page (image will appear if no result is found) */
 	background: #fff;
@@ -703,7 +709,7 @@ p.comment_meta {
 
 .postinput {
 	margin: 0;
-	}
+}
 
 /* 4)-=-=-=- Right selectors -=-=-=- */	
 
@@ -713,7 +719,7 @@ p.comment_meta {
 	padding: 0 5px 20px 0;
 	font-size: .9em;
 	line-height: 1.4;
-	}
+}
 
 #author ul {
 	padding: 20px 0 0 0;
@@ -732,7 +738,6 @@ p.comment_meta {
 
 .sidebar ul li {
 	list-style: none;
-	padding: 0px 0px 15px 0px;
 	margin: 0px ;
 }
 
@@ -775,7 +780,6 @@ p.comment_meta {
 	font-family: Frutiger, Univers, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	list-style: none;
 }
-
 
 .sidebar li.page_item a,
 .sidebar li.page_item a:link,
@@ -842,7 +846,7 @@ a:visited.special {
 .searchfield:hover {
 	background: #ffffff;
 	border: 1px solid #389307;
-	}
+}
 	
 .searchsubmit {
 	vertical-align: middle;
@@ -859,7 +863,7 @@ a:visited.special {
 	background: #ffffff;
 	border: 1px solid #389307;
 	color: #000000;
-	}
+}
 
 
 /* 6)-=-=-=- Forms -=-=-=- */
@@ -873,16 +877,16 @@ textarea {
 	min-width: 100px !important;
 	max-width: 450px !important;
 	height: 100px;
-	}
+}
 	
 textarea:hover {
 	background: #fff;
 	color: #333;
-	}
+}
 	
 input {
 	background: #fff;
-	}
+}
 	
 .input-submit {
 	height: 39px;
@@ -890,41 +894,40 @@ input {
 	text-align: left;
 	background: #ffffff;
 	color: #389307;
-	}
-
+}
 
 .input-submit:hover {
 	border: 1px solid #389307;
 }
 
 .donation legend { 
-    display: block;
+	display: block;
 	font: normal 16px Helvetica; 
 	color: #666;
 	font-weight: bold;
 	padding: 0;
-    margin: 0;
+	margin: 0;
 }
 
 .donation br, .donation p {
-    line-height: 0;
-    display: none;
-    width: 0;
-    height: 0;
-    margin: 0;
-    padding: 0;
+	line-height: 0;
+	display: none;
+	width: 0;
+	height: 0;
+	margin: 0;
+	padding: 0;
 }
 
 .donation ol {
-    list-style-type: none;
-    border-top: 1px solid #ccc;
-    padding: 5px 0 0 0;
-    margin: 4px 0 0 0;
+	list-style-type: none;
+	border-top: 1px solid #ccc;
+	padding: 5px 0 0 0;
+	margin: 4px 0 0 0;
 }
 
 .donation li {
-    margin: 5px 0;
-    padding: 0;
+  margin: 5px 0;
+  padding: 0;
 }
 
 /* 7)-=-=-=- Accessibility -=-=-=- */
@@ -996,15 +999,14 @@ div.aligncenter {
 }
 
 img.alignleft {
-    display: block;
+  display: block;
 	float: left;
-    padding-right: 10px;
+  padding-right: 10px;
 }
 
 .alignleft {
 	float: left;
 }
-
 
 .alignright {
 	float: right;
@@ -1035,4 +1037,3 @@ img.alignleft {
 	margin: 0;
 }
 /* End captions & aligment */
-

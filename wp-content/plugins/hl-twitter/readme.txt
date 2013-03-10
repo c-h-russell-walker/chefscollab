@@ -3,14 +3,17 @@ Contributors: Dachande663
 Donate link: http://hybridlogic.co.uk/code/wordpress-plugins/hl-twitter/
 Tags: twitter, tweet, post, auto tweet, social, social media, backup, hybridlogic, archive, shortcode, widget
 Requires at least: 2.9.2
-Tested up to: 3.2
+Tested up to: 3.5.1
 Stable tag: trunk
+License: MIT
 
 HL Twitter stores tweets from multiple accounts and displays them via widget, archives and shortcodes as well as auto-tweeting new posts.
 
 == Description ==
 
 HL Twitter lets you display your tweets as a widget in your sidebar or even browse your entire Twitter history right on your blog. But it also does a whole lot more. You can track multiple Twitter accounts and store all of the tweets on your blog indefinitely (currently Twitter only keep your 3,200 most recent tweets) as well as pulling in any tweets that you reply to for future reference. You can then tweet from your Dashboard or have HL Twitter automatically tweet your new posts with a customisable message.
+
+**Twitter 1.1 Compatible**
 
 == Installation ==
 
@@ -113,6 +116,13 @@ This was an issue caused by certain versions of PHP truncating the IDs when it l
 2. Default widget styling with the WordPress TwentyTen theme.
 
 == Changelog ==
+
+= 2013.1.25 =
+* Updated to Twitter 1.1 API
+* Fixed notice caused by importing no tweets
+* Fixed issue when creating fulltext indexes in non-MyISAM tables
+* Fixed general API handling to prevent errors from appearing
+* Removed caching of images locally
 
 = 2011.7.30 =
 * Updated to support WordPress 3.2

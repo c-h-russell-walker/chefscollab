@@ -1,30 +1,3 @@
-
-<!-- begin left sidebar -->
-
-<div id="left" class="column">
-<?php if (is_frontpage()) { ?>
-	<div class="sidebar">
-		<ul>
-			<?php if ( function_exists('dynamic_sidebar') && dynamic_sidebar('Front Left Navigation') ) : else : ?>
-
-			<?php wp_list_pages('sort_column=menu_order,post_title&title_li='); ?>
-			
-			<?php endif; ?>
-		</ul>
-	</div> <!-- /sidebar front -->
-	<?php } else { ?>
-	<div class="sidebar">
-		<ul>
-			<li>
-				<ul class="menu">
-					<?php wswwpx_fold_page_list('sort_column=menu_order,post_title&title_li=&exclude=661,632,670,673,1786'); ?>
-				</ul>
-			</li>
-		</ul>
-	</div> <!-- /sidebar inside -->
-	<?php } ?>
-</div> <!-- /left -->
-
 <!-- begin right sidebar -->
 
 <div id="right" class="column">
