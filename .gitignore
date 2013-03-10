@@ -9,5 +9,7 @@ local.config.php
 
 # Text editor files
 .komodotools/*
-chefscollab.komodoproject
+*.komodoproject
+*.sublime-project
+*.sublime-workspace
 

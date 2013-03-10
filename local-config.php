@@ -12,10 +12,10 @@ define('DB_NAME', 'chefscollab');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'root');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '127.0.0.1');
 
 /** Local Specific Domains **/
 define('WP_HOME','http://local.chefscollab.org');
