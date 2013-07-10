@@ -27,55 +27,39 @@ Author URI: http://www.tashian.com/carl/
 	position: relative;
 	margin: 0px auto;
 	font-size: .9em;
-	height: 160px;
-	width: 814px;
-	background: url(images/header-front.png) no-repeat;
+	height: 230px;
+	width: 1010px;
+	background: url(images/wide_header_withshadow.png) no-repeat #FFF;
 }
 
-#page {
+#page-wrapper {
 	position: relative;
 	width: 960px;
-	/*background: url(images/page-bg-lighter.gif) repeat-y;*/
-	background-color: #FFF;
+	background: url(images/wide_page_bg.png) repeat-y #FFF;
 	margin: 0px auto;
 	text-align: left;
+	padding: 0 25px;
 }
 
 #wrapper {
 	position: relative;
-	margin: 0px auto;
-	/*padding-left: 177px;*/ /* LC fullwidth */
-	padding-right: 205px; /* RC fullwidth + CC padding/border */
+	margin: 10px auto;
 }
 
 #wrapper .column {
 	position: relative;
 	float: left;
+	padding: 5px 0 0 0;
 }
 
 #content {
-	width: 100%;
-	border-right: 1px solid #808080;
+	width: 680px;
 	background-color: #fff;
 }
 
 #left {
-	width: 177px;          /* LC width */
-	margin-left: -100%;
-}
-
-* html #left {
-	margin-left: -610px;  /* must be an exact value to fix IE6 bug */
-}
-
-#wrapper > #left {
-	/* non-IE6 */
-	left: -178px; /* -(LC fullwidth + CC padding) */
-}
-
-#right {
-	width: 204px;          /* RC width */
-	margin-right: -205px;  /* RC fullwidth + CC padding */
+	margin-left: 15px;
+	width: 265px;
 }
 
 #footer {
@@ -209,8 +193,9 @@ body {
 
 #header .search {
 	position: absolute;
-	top: 90px;
+	top: 10px;
 	right: 25px;
+	width: 260px;
 }
 
 /* IE 6 positioning fix */
@@ -231,8 +216,18 @@ body {
 	display: block;
 }
 
+#header .search #q::-webkit-input-placeholder {font-style: italic; margin-left: 10px;}
+#header .search #q::-moz-placeholder {font-style: italic; margin-left: 10px;}
+#header .search #q:-ms-input-placeholder {font-style: italic; margin-left: 10px;	}
+
 #header .search form input.q {
-	width: 128px;
+	width: 175px;
+	height: 18px;
+	margin-right: -50px;
+}
+
+#header .search form {
+	display: inline-block;
 }
 
 #header .search form input.go {
@@ -240,6 +235,26 @@ body {
 	vertical-align: middle;
 	padding-left: 5px;
 	background: transparent;
+}
+
+#facebook-header {
+	text-indent: -9999px;
+	margin-left: 25px;
+	display: inline-block;
+	height: 27px;
+	width: 27px;
+	vertical-align: top;
+	background: url(images/icons-facebook.png) no-repeat;
+}
+
+#twitter-header {
+	text-indent: -9999px;
+	margin-left: 5px;
+	display: inline-block;
+	height: 27px;
+	width: 27px;
+	vertical-align: top;
+	background: url(images/icons-twitter.png) no-repeat;
 }
 
 h1 {
@@ -311,9 +326,15 @@ h2 {
 
 /* light gray intro text center column home page block */
 
+.main .intro {
+	padding: 0 14px 0 17px;
+}
+
 .main .intro h2 {
-	font-size: 16px;
-	line-height: 20px;
+	font-size: 26px;
+	line-height: 28px;
+	color: #447035;
+	padding: 5px 0 10px 0;
 }
 
 .main .intro h3 {
@@ -326,10 +347,17 @@ h2 {
 }
 
 .main .intro a.special {
-	display: block;
-	background-color: #f4f4f4;
+	color: #000;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-decoration: none;
 	padding: 0 0 5px 17px;
-	margin-bottom: 3px;
+}
+
+.main .intro a.special:hover {
+	color: #666;
+	text-decoration: underline;
 }
 
 .main .intro ul {
@@ -501,51 +529,96 @@ blockquote {
 
 .sidebar li.newsletter {
 	display: block;
-	background: url(images/newsletter-gradient.jpg) no-repeat;
-	width: 179px;
+	width: 250px;
 	height: 79px;
-	margin: 5px 7px 0 7px;
-	padding: 4px 0 0 12px;
 }
 
 .sidebar li.newsletter h2 {
-	font-size: 14px;
+	font-size: 15px;
 	line-height: 17px;
 	background: none;
 	font-family: Frutiger, Univers, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-weight: bold;
 	letter-spacing: 0;
-	margin: 0;
+	margin: 0 0 5px 0;
 	padding: 0;
-	color: #5b5b5b;
+	color: #447035;
 }
 
 .sidebar li.newsletter h4 {
-	font-size: 11px;
+	font-size: 10px;
 	line-height: 13px;
 	font-family: Frutiger, Univers, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-weight: normal;
 	color: #b8b8b8;
+	text-transform: uppercase;
+	color: #447035;
 }
 
 .sidebar li.newsletter form {
-	padding: 5px 0 0 0;
 	margin: 0;
 }
 
 .sidebar li.newsletter form input.email {
-	width: 128px;
+	width: 240px;
+	height: 18px;
 }
 
 .sidebar li.newsletter form input.ok {
 	vertical-align: middle;
-	padding-left: 5px;
+	margin-left: -40px;
 	border: 0;
 	background: transparent;
 }
 
 .sidebar li.joinus {
-	padding: 5px 0 0 7px;
+	margin-top: 10px;
+	border-top: 2px solid #DFDEDA;
+}
+
+.sidebar li.donate {
+	margin-bottom: 10px;
+	border-bottom: 2px solid #DFDEDA;
+}
+
+.sidebar li a {
+	padding: 7px 0;
+	width: 250px;
+	height: 40px;
+	display: inline-block;
+}
+
+.sidebar li.local-networks a {
+	height: 150px;
+	background: url(images/local-networks.png) no-repeat 0 center;
+}
+
+.sidebar li.local-networks a:hover {
+	background: url(images/local-networks-ROLLOVER.png) no-repeat 0 center;
+}
+
+.sidebar li.joinus a {
+	background: url(images/side-buttons-join.png) no-repeat 0 center;
+}
+
+.sidebar li.joinus a:hover {
+	background: url(images/side-buttons-ROLLOVER-join.png) no-repeat 0 center;
+}
+
+.sidebar li.renew a {
+	background: url(images/side-buttons-renew.png) no-repeat 0 center;
+}
+
+.sidebar li.renew a:hover {
+	background: url(images/side-buttons-ROLLOVER-renew.png) no-repeat 0 center;
+}
+
+.sidebar li.donate a {
+	background: url(images/side-buttons-donate.png) no-repeat 0 center;
+}
+
+.sidebar li.donate a:hover {
+	background: url(images/side-buttons-ROLLOVER-donate.png) no-repeat 0 center;
 }
 
 .sidebar li.recent ul {

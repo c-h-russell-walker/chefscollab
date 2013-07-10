@@ -14,6 +14,7 @@ class Updraft_Restorer extends WP_Upgrader {
 
 	function restore_backup($backup_file, $type) {
 
+		// Various keys can get stored in the data - but only some represent actual data entities
 		if ($type != 'plugins' && $type != 'themes' && $type != 'others' && $type != 'uploads') continue;
 
 		global $wp_filesystem;
@@ -34,7 +35,7 @@ class Updraft_Restorer extends WP_Upgrader {
 		$working_dir = $this->unpack_package($download , $delete);
 		if (is_wp_error($working_dir)) return $working_dir;
 		
-		if ($type == "others" ) {
+		if ($type == 'others' ) {
 
 			// In this special case, the backup contents are not in a folder, so it is not simply a case of moving the folder around, but rather looping over all that we find
 
@@ -42,6 +43,18 @@ class Updraft_Restorer extends WP_Upgrader {
 			if ( !empty($upgrade_files) ) {
 				foreach ( $upgrade_files as $filestruc ) {
 					$file = $filestruc['name'];
+
+					// Correctly restore files in 'others' in no directory that were wrongly backed up in versions 1.4.0 - 1.4.48
+					if (preg_match('/^([\-_A-Za-z0-9]+\.php)$/', $file, $matches) && $wp_filesystem->exists($working_dir . "/$file/$file")) {
+						echo "Found file: $file/$file: presuming this is a backup with a known fault (backup made with versions 1.4.0 - 1.4.48); will rename to simply $file<br>";
+						$file = $matches[1];
+						$tmp_file = rand(0,999999999).'.php';
+						// Rename directory
+						$wp_filesystem->move($working_dir . "/$file", $working_dir . "/".$tmp_file, true);
+						$wp_filesystem->move($working_dir . "/$tmp_file/$file", $working_dir ."/".$file, true);
+						$wp_filesystem->rmdir($working_dir . "/$tmp_file", false);
+					}
+
 					# Sanity check (should not be possible as these were excluded at backup time)
 					if ($file != "plugins" && $file != "themes" && $file != "uploads" && $file != "upgrade") {
 						# First, move the existing one, if necessary (may not be present)

@@ -70,15 +70,17 @@
 		<h4><?php bloginfo('description'); ?></h4>
 </div> <!-- /header -->
 
+<div id="page-wrapper">
+
 <?php // get_navigation(); ?>
 <style type="text/css">
-#top-nav {
-  background-color: #417630;
+/*#top-nav {
+  	background-color: #417630;
 	height: 47px;
 	text-align: center;
 }
 #top-nav ul {
-  list-style: none;
+  	list-style: none;
 	margin: 0;
 	vertical-align: middle;
 	padding: 0;
@@ -91,10 +93,10 @@
 #top-nav ul li a {
 	color: #FFF;
 	line-height: 3.333em;
-  padding: 0 0.75em;
+  	padding: 0 0.75em;
 	-moz-border-radius: 5px;
  	-webkit-border-radius: 5px;
-  border-radius: 5px;
+  	border-radius: 5px;1
 }
 #top-nav ul li a:hover {
 	color: #000;
@@ -106,26 +108,47 @@
 #top-nav .sub-nav a {
 	border: 1px solid black;
 	border-bottom: none;
+	height: 35px;
+	line-height: 35px;
 }
 #top-nav .sub-nav a.last-nav {
 	border-bottom: 1px solid black;
 }
+#top-nav .sub-nav ul li a {
+	border-left: none;
+	color: #000;
+	background-color: #8CAF63;
+}
+#top-nav .sub-nav ul li a:hover {
+	color: #FFF;
+	background-color: #417630;
+}
+#top-nav .sub-nav ul li a.first-sub-nav {
+	/*margin-top: 17px;*/
+}*/
 </style>
 
 <nav id="top-nav" class="nav-menu">
 	<ul>
-		<?php //wswwpx_fold_page_list('sort_column=menu_order,post_title&title_li=&exclude=661,632,670,673,1786'); ?>
-		<li><a href="<?php bloginfo('url'); ?>/about" >About</a>
+		<li><a href="<?php bloginfo('url'); ?>/about/">About</a>
 			<ul class='sub-nav'>
-				<li><a href='<?php bloginfo('url'); ?>/about/board-of-overseers/'>Board of Overseers</a></li>
-				<li><a href='<?php bloginfo('url'); ?>/about/chapters/'>Chapters</a></li>
-				<li><a href='<?php bloginfo('url'); ?>/about/staff/'>Staff</a></li>
+				<li><a href='<?php bloginfo('url'); ?>/about/board/'>Board</a>
+					<ul>
+						<li><a class="first-sub-nav" href='<?php bloginfo('url'); ?>/about/board/board-bios/'>Board Bios</a></li>
+						<li><a class="last-nav" href='<?php bloginfo('url'); ?>/about/board/nominations/'>Nominations</a></li>
+					</ul>
+				</li>
 				<li><a href='<?php bloginfo('url'); ?>/about/advisory-board/'>Advisory Board</a></li>
+				<li><a href='<?php bloginfo('url'); ?>/about/staff/'>Staff</a></li>
 				<li><a href='<?php bloginfo('url'); ?>/about/job-openings/'>Jobs and Internships</a></li>
+				<li><a class="last-nav" href='<?php bloginfo('url'); ?>/contact/'>Contact</a></li>
+				<!--
 				<li><a href='<?php bloginfo('url'); ?>/about/friends-sponsors/'>Friends & Sponsors</a></li>
 				<li><a class="last-nav" href='<?php bloginfo('url'); ?>/about/ustainability-awards/'>Sustainability Awards</a></li>
+				-->
 			</ul>
 		</li>
+		<!--
 		<li><a href="<?php bloginfo('url'); ?>/programs">Programs</a>
 			<ul class='sub-nav'>
 				<li><a href='<?php bloginfo('url'); ?>/programs/chefs-collaborative-locals/'>Local Networks</a></li>
@@ -133,24 +156,73 @@
 				<li><a class="last-nav" href='<?php bloginfo('url'); ?>/programs/chef-the-sea/'>Seafood Solutions</a></li>
 			</ul>
 		</li>
-		<li><a href="<?php bloginfo('url'); ?>/join-us">Members</a>
+		-->
+		<li><a href="<?php bloginfo('url'); ?>/join-us/">Members</a>
 			<ul class='sub-nav'>
-				<li><a class="last-nav" href-'http://guide.chefscollaborative.org/'>Member Search</a></li>
+				<li><a href='<?php bloginfo('url'); ?>/join-us/'>Benefits/Join??</a></li>
+				<li><a href='http://guide.chefscollaborative.org/'>Member Search</a></li>
+				<li><a href='<?php bloginfo('url'); ?>/about/friends-sponsors/'>Members &amp; Friends??</a></li>
+				<li><a class="last-nav" href='<?php bloginfo('url'); ?>/about/chapters/'>Chapters</a></li>
 			</ul>
 		</li>
+		<!--
 		<li><a href="<?php bloginfo('url'); ?>/sustainable-food-summit/national-summit-<?php echo date('Y') ?>/">Sustainable Food Summit</a>
 			<ul class='sub-nav'>
-				<li><a href-'<?php bloginfo('url'); ?>/sustainable-food-summit/national-summit-2013/'>National Summit 2013</a></li>
-				<li><a href-'<?php bloginfo('url'); ?>/sustainable-food-summit/2012-2/'>National Summit 2012</a></li>
-				<li><a class="last-nav" href-'<?php bloginfo('url'); ?>/sustainable-food-summit/summit/'>National Summit 2011</a></li>
+				<li><a href='<?php bloginfo('url'); ?>/sustainable-food-summit/national-summit-2013/'>National Summit 2013</a></li>
+				<li><a href='<?php bloginfo('url'); ?>/sustainable-food-summit/2012-2/'>National Summit 2012</a></li>
+				<li><a class="last-nav" href='<?php bloginfo('url'); ?>/sustainable-food-summit/summit/'>National Summit 2011</a></li>
 			</ul>
 		</li>
+		-->
+		<li><a href="<?php bloginfo('url'); ?>/programs/">What We Do</a>
+			<ul class='sub-nav'>
+				<li><a href='<?php bloginfo('url'); ?>/programs/chefs-collaborative-locals/'>Local Networks</a>
+					<ul>
+						<li><a class="first-sub-nav" href='<?php bloginfo('url'); ?>/programs/chefs-collaborative-locals/boston-local'>Boston</a></li>
+						<li><a href='<?php bloginfo('url'); ?>/programs/chefs-collaborative-locals/knoxville-local/'>Knoxville</a></li>
+						<li><a href='<?php bloginfo('url'); ?>/programs/chefs-collaborative-locals/nh-seacoast-local/'>NH Seacoast</a></li>
+						<li><a class="last-nav" href='<?php bloginfo('url'); ?>/programs/chefs-collaborative-locals/rhode-island-local/'>Rhode Island</a></li>
+					</ul>
+				</li>
+				<li><a href='<?php bloginfo('url'); ?>/programs/chef-the-sea/'>Seafood Solutions</a>
+					<ul><li><a class="first-sub-nav last-nav" href='<?php bloginfo('url'); ?>/programs/chef-the-sea/a-chefs-guide/'>Chef's Guide</a></li></ul>
+				</li>
+				<li><a href='<?php bloginfo('url'); ?>/about/sustainability-awards/'>Sustainability Awards</a></li>
+				<li><a href='<?php bloginfo('url'); ?>/programs/cookbook/'>Cookbook</a></li>
+				<li><a class="last-nav" href='<?php bloginfo('url'); ?>/sign-on-letters/'>Sign On Letters??</a>
+					<ul><li><a class="first-sub-nav last-nav" href='<?php bloginfo('url'); ?>/events/ge-salmon-sign-on-letter/'>GE Salmon</a></li></ul>
+				</li>
+			</ul>
+		</li>
+		<!--
 		<li><a href="<?php bloginfo('url'); ?>/events/">Events</a>
 			<ul class='sub-nav'>
-				<li><a href-'<?php bloginfo('url'); ?>/events/'>function call get events - iterate</a></li>
-				<li><a class="last-nav" href-'<?php bloginfo('url'); ?>/events/archive/'>Archive</a></li>
+				<?php // Iterate the Events to create sub-nav
+				$posts = get_posts( array('category' => '55') ); 
+				foreach ($posts as $post) {
+					echo "<li><a href='" . get_permalink($post->ID) . "'>" . $post->post_title . "</a></li>";
+				}
+				?>
+				<li><a class="last-nav" href='<?php bloginfo('url'); ?>/events/archive/'>Archive</a></li>
 			</ul>
 		</li>
+		-->
+		<li><a href="<?php bloginfo('url'); ?>/events/">Events</a>
+			<ul class='sub-nav'>
+				<li><a href='<?php bloginfo('url'); ?>/sustainable-food-summit/'>Sustainable Food Summit</a>
+					<ul>
+						<li><a class="first-sub-nav" href='<?php bloginfo('url'); ?>/sustainable-food-summit/summit/'>National Summit 2011</a></li>
+						<li><a href='<?php bloginfo('url'); ?>/sustainable-food-summit/2012-2/'>National Summit 2012</a></li>
+						<li><a class="last-nav" href='<?php bloginfo('url'); ?>/sustainable-food-summit/national-summit-2013/'>National Summit 2013</a></li>
+					</ul>
+				</li>
+				<li><a href='<?php bloginfo('url'); ?>/events/earthdinners-2/'>Earth Dinners</a>
+					<ul><li><a class="first-sub-nav last-nav" href='<?php bloginfo('url'); ?>/events/archive/2012-earth-dinner-participants-2/'>2012 Earth Dinners</a></li></ul>
+				</li>
+				<li><a class="last-nav" href='<?php bloginfo('url'); ?>/events/archive/'>Past Events</a></li>
+			</ul>
+		</li>
+		<!--
 		<li><a href="<?php bloginfo('url'); ?>/category/articles">Publications</a>
 			<ul class='sub-nav'>
 				<li><a href='<?php bloginfo('url'); ?>/2013/'>2013</a></li>
@@ -162,14 +234,24 @@
 				<li><a class="last-nav" href='<?php bloginfo('url'); ?>/2007/'>2007</a></li>
 			</ul>
 		</li>
-		<li><a href="<?php bloginfo('url'); ?>/category/blog">Blog</a></li>
-		<li><a href="<?php bloginfo('url'); ?>/press">News &amp; Media</a>
+		-->
+		<li><a href="<?php bloginfo('url'); ?>/category/blog/">Blog</a></li>
+		<li><a href="<?php bloginfo('url'); ?>/press/">Media</a>
 			<ul class='sub-nav'>
-				<li><a class="last-nav" href='<?php bloginfo('url'); ?>/press/media-kit/'>Media Kit</a></li>
+				<li><a href="<?php bloginfo('url'); ?>/press/">News??</a></li>
+				<li><a href="<?php bloginfo('url'); ?>/category/articles/">Publications</a></li>
+				<li><a class="last-nav" href='<?php bloginfo('url'); ?>/press/media-kit/'>Media Resources</a></li>
 			</ul>
 		</li>
-		<li><a href="<?php bloginfo('url'); ?>/contact-us">Contact Us</a></li>
+		<li><a href="<?php bloginfo('url'); ?>/about/sponsors/">Sponsors</a>
+			<ul class='sub-nav'>
+				<li><a href="<?php bloginfo('url'); ?>/about/friends-sponsors/">Annual Sponsors??</a></li>
+				<li><a href="http://chefscollaborative.org/wp-content/uploads/2013/01/Chefs-Collaborative-2013-Summit-Sponsorship-Opportunities.pdf">Summit Sponsors??</a></li>
+				<li><a class="last-nav" href='<?php bloginfo('url'); ?>/donors/'>Donors??</a></li>
+			</ul>
+		</li>
 	</ul>
 </nav>
 
 <div id="wrapper">
+	<?php // wswwpx_fold_page_list('sort_column=menu_order,post_title&title_li=&exclude=661,632,670,673,1786'); ?>

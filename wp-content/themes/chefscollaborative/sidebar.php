@@ -1,6 +1,6 @@
-<!-- begin right sidebar -->
+<!-- begin left sidebar -->
 
-<div id="right" class="column">
+<div id="left" class="column">
 <?php if (is_frontpage()) { ?>
 	<div class="sidebar">
 		<ul>
@@ -24,4 +24,4 @@
 	</div> <!-- /sidebar inside -->
 <?php } ?>
 	<div id="navi_end_right"> </div>
-</div> <!-- end right sidebar -->
+</div> <!-- end left sidebar -->

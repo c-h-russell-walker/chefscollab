@@ -3,7 +3,6 @@
 
 <div id="content" class="column">
 
-
 	<div class="main">
 			<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 

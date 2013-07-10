@@ -1,0 +1,2236 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://local.chefscollab.org/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.5.1" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.9" -->
+<!-- generated-on="March 23, 2013 6:29 pm" -->
+<!-- Debug: Total comment count: 258 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://local.chefscollab.org/</loc>
+		<lastmod>2013-02-28T19:17:18+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+	<url>
+		<loc>http://local.chefscollab.org/news/</loc>
+		<lastmod>2013-03-07T18:45:17+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/join-us/</loc>
+		<lastmod>2013-03-07T15:42:33+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/join-us/change-of-info-members/</loc>
+		<lastmod>2013-03-07T14:52:57+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/about/board/board-bios/</loc>
+		<lastmod>2013-03-07T03:57:15+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/events/trash-fish-dinner/</loc>
+		<lastmod>2013-03-05T19:30:53+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/about/board/</loc>
+		<lastmod>2013-03-04T15:20:26+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/about/jobs/</loc>
+		<lastmod>2013-03-03T20:52:10+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/about/advisory-board/</loc>
+		<lastmod>2013-03-03T20:49:32+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/about/</loc>
+		<lastmod>2013-03-03T20:47:37+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/sustainable-food-summit/national-summit-2013/</loc>
+		<lastmod>2013-03-03T20:42:09+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/programs/</loc>
+		<lastmod>2013-03-03T20:34:25+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/about/sponsors/</loc>
+		<lastmod>2013-03-03T19:37:38+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/about/chapters/</loc>
+		<lastmod>2013-03-03T18:15:46+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/sustainable-food-summit/summit/2011-summit-agenda/</loc>
+		<lastmod>2013-03-01T18:09:02+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 10856: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2013/02/19/are-trash-fish-the-answer/</loc>
+		<lastmod>2013-03-01T16:46:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 10872: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2013/02/21/trash-fish-to-cash-fish/</loc>
+		<lastmod>2013-03-01T16:21:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://www.chefscollaborative.org/category/articles/</loc>
+		<lastmod>2013-02-28T19:22:07+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/programs/cookbook/</loc>
+		<lastmod>2013-02-28T19:22:02+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://chefscollaborative.org/category/blog</loc>
+		<lastmod>2013-02-28T19:21:13+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 10918: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2013/02/28/trash-fish-meet-the-cape-cod-blood-cockle/</loc>
+		<lastmod>2013-02-28T18:06:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/about/staff/</loc>
+		<lastmod>2013-02-21T23:06:30+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/events/ge-salmon-sign-on-letter/</loc>
+		<lastmod>2013-02-20T20:39:33+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 10816: Comments: 2 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2013/02/12/help-stop-genetically-engineered-salmon/</loc>
+		<lastmod>2013-02-12T15:16:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/sustainable-food-summit/2012-2/summit-sponsors-2/</loc>
+		<lastmod>2013-02-11T18:22:29+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/events/earthdinners-2/</loc>
+		<lastmod>2013-02-07T15:53:03+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 10772: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2013/02/05/2013-earth-dinners-are-you-in/</loc>
+		<lastmod>2013-02-05T17:10:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/events/archive/</loc>
+		<lastmod>2013-01-29T17:43:09+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://chefscollaborative.org/events/trash-fish/</loc>
+		<lastmod>2013-01-29T17:39:00+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/events/archive/2012-earth-dinner-participants-2/</loc>
+		<lastmod>2013-01-29T17:36:10+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/events/archive/2012-bristol-bay-sockeye-salmon-events/</loc>
+		<lastmod>2013-01-29T17:35:35+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/programs/chefs-collaborative-locals/</loc>
+		<lastmod>2013-01-25T15:20:12+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/contact-us/</loc>
+		<lastmod>2013-01-24T23:53:15+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/about/contact-us/</loc>
+		<lastmod>2013-01-24T23:47:20+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/programs/chefs-collaborative-locals/rhode-island-local/</loc>
+		<lastmod>2013-01-22T20:00:55+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/programs/chefs-collaborative-locals/knoxville-local/</loc>
+		<lastmod>2013-01-22T19:35:05+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/programs/chefs-collaborative-locals/nh-seacoast-local/</loc>
+		<lastmod>2013-01-22T19:17:21+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/programs/chefs-collaborative-locals/boston-local/</loc>
+		<lastmod>2013-01-22T19:01:19+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 10587: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2013/01/22/fisheries-sustainable-seafood/</loc>
+		<lastmod>2013-01-22T13:02:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 10559: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2013/01/18/a-dinner-with-season-to-taste/</loc>
+		<lastmod>2013-01-18T15:27:26+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://chefscollaborative.org/sustainable-food-summit/national-summit-2013/</loc>
+		<lastmod>2013-01-18T15:17:53+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/sustainable-food-summit/2012-2/</loc>
+		<lastmod>2013-01-18T15:14:55+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/sustainable-food-summit/summit/</loc>
+		<lastmod>2013-01-18T15:07:30+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 10529: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2013/01/15/trash-fish-dinner-the-best-new-england-seafood-youve-never-tried/</loc>
+		<lastmod>2013-01-15T20:40:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 10311: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/12/21/field-trip-knives-farms-and-beer/</loc>
+		<lastmod>2012-12-21T17:17:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 10297: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/12/17/local-chefs-new-marketplace/</loc>
+		<lastmod>2012-12-17T15:18:26+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 10287: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/12/13/hacking-meat-on-chefs-using-tech-to-improve-profitability-sustainability/</loc>
+		<lastmod>2012-12-13T18:36:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 10218: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/11/20/grandpa-whats-a-cod/</loc>
+		<lastmod>2012-12-11T15:53:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 10206: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/12/07/member-spotlight-earthcare-aquaculture/</loc>
+		<lastmod>2012-12-07T15:24:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/sustainable-food-summit/2012-2/sustainability-awards/</loc>
+		<lastmod>2012-11-27T15:02:07+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/sustainable-food-summit/2012-2/summit-sponsors-2/in-kind-sponsors/</loc>
+		<lastmod>2012-11-27T14:59:15+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/sustainable-food-summit/2012-2/sustainability-awards/sustainability-award-winners/</loc>
+		<lastmod>2012-11-27T14:56:25+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/sustainable-food-summit/2012-2/2012-summit-field-trips/</loc>
+		<lastmod>2012-11-27T14:55:13+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/sustainable-food-summit/2012-2/2012-summit-events/</loc>
+		<lastmod>2012-11-27T14:50:31+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/sustainable-food-summit/2012-2/speakers/</loc>
+		<lastmod>2012-11-27T14:49:29+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/sustainable-food-summit/2012-2/2012-summit-schedule-at-a-glance/</loc>
+		<lastmod>2012-11-27T14:49:22+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 10148: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/09/25/t-5-days-until-we-see-you-in-seattle/</loc>
+		<lastmod>2012-09-25T16:19:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/about/sustainability-awards/</loc>
+		<lastmod>2012-08-16T17:03:18+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 9819: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/08/08/the-staff-visits-blackbird-farm/</loc>
+		<lastmod>2012-08-09T17:37:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 7978: Comments: 13 of 258 = 0.1 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/07/30/welcome-to-chef-vs-chef/</loc>
+		<lastmod>2012-07-30T16:44:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 8267: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/03/19/foodshed-defined/</loc>
+		<lastmod>2012-07-16T23:59:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 8428: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/04/02/talking-fish-with-chef-jeremy-sewall/</loc>
+		<lastmod>2012-07-16T23:58:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 9680: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/07/13/just-say-no-to-superbugs/</loc>
+		<lastmod>2012-07-13T16:37:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 9660: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/07/12/the-chefs-collaborative-knoxville-local-and-save-bristol-bay-make-their-debut/</loc>
+		<lastmod>2012-07-12T13:30:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/about/board/nominations/</loc>
+		<lastmod>2012-07-10T15:53:38+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 9572: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/03/27/dalian-foot-massage-your-best-choise/</loc>
+		<lastmod>2012-06-28T01:13:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 9066: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/05/23/next-steps-for-bristol-bay-alaska/</loc>
+		<lastmod>2012-06-27T17:55:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 9553: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/06/27/a-love-affair-with-the-rhode-island-state-fish-the-striped-bass/</loc>
+		<lastmod>2012-06-27T17:48:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2316: Comments: 6 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/08/21/2316/</loc>
+		<lastmod>2012-06-27T08:44:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 6388: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/06/30/just-farm-nostalgia/</loc>
+		<lastmod>2012-06-27T08:42:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 7486: Comments: 4 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/12/07/waste-not-want-not/</loc>
+		<lastmod>2012-06-27T08:41:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 9061: Comments: 8 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/05/18/what-if-any-responsibility-do-chefs-have-to-the-greater-community-with-regard-to-a-sustainable-food-system/</loc>
+		<lastmod>2012-05-18T16:16:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 8262: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/05/15/eating-fish-responsibly/</loc>
+		<lastmod>2012-05-16T17:05:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 8894: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/04/26/earth-dinner-review-hukilau-lanai-hawaii/</loc>
+		<lastmod>2012-05-15T19:53:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 9010: Comments: 4 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/05/15/new-sustainable-food-report-it-all-comes-down-to-grain/</loc>
+		<lastmod>2012-05-15T17:26:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 8970: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/05/04/earth-dinner-roundup/</loc>
+		<lastmod>2012-05-04T19:52:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 8774: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/04/19/earth-dinner-profile-uncommon-ground/</loc>
+		<lastmod>2012-04-20T19:01:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 8341: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/04/11/ruth-reichl-speaks/</loc>
+		<lastmod>2012-04-11T23:49:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 8270: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/03/05/summit-update-bamco-sam-and-you/</loc>
+		<lastmod>2012-03-05T20:30:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 8235: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/02/23/talking-fish-with-chef-evan-mallett/</loc>
+		<lastmod>2012-02-23T18:36:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 8107: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/02/21/hotel-sorrento-sets-the-scene-for-2012-summit/</loc>
+		<lastmod>2012-02-21T21:11:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 8097: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/02/06/rowan-jacobsen-returns-as-master-of-ceremonies/</loc>
+		<lastmod>2012-02-11T19:18:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 8132: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/02/09/congresswoman-chellie-pingree-and-professor-marion-nestle-talk-farm-bill-with-boston-chefs/</loc>
+		<lastmod>2012-02-09T18:26:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 8072: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/02/03/talking-fish-with-chef-matt-jennings/</loc>
+		<lastmod>2012-02-03T16:33:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 8029: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/02/01/member-spotlight-tricia-butler-portland-chapter/</loc>
+		<lastmod>2012-02-01T18:27:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 7833: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/01/13/national-summit-2011-highlights/</loc>
+		<lastmod>2012-01-20T17:31:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/programs/chef-the-sea/</loc>
+		<lastmod>2012-01-17T19:56:51+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 7882: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/01/17/hand-harvested-wild-rice-the-heritage-is-in-the-harvest/</loc>
+		<lastmod>2012-01-17T16:27:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 7846: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/01/13/talking-fish-with-seafood-buyer-max-harvey/</loc>
+		<lastmod>2012-01-13T17:02:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 7821: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2012/01/09/our-thoughts-to-steve-arnold-on-the-sinking-of-his-ship-elizabeth-helen/</loc>
+		<lastmod>2012-01-09T17:20:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 7764: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/12/15/pie-crust-surprise-its-whole-wheat/</loc>
+		<lastmod>2012-01-07T01:07:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 7796: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/12/21/aw-shucks-oyster-culture-from-water-to-raw-bar/</loc>
+		<lastmod>2011-12-21T18:13:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 7757: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/12/12/wheres-the-cod/</loc>
+		<lastmod>2011-12-12T17:46:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/news/media-kit/</loc>
+		<lastmod>2011-12-08T17:48:18+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 7521: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/12/05/member-spotlight-cara-rosaen-real-time-farms/</loc>
+		<lastmod>2011-12-06T19:34:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 7490: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/11/30/why-accurate-fish-stock-assessments-matter/</loc>
+		<lastmod>2011-11-30T20:57:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 7348: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/11/01/local-leader-rich-garcia-of-606-congress-speaks-his-mind/</loc>
+		<lastmod>2011-11-11T20:07:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 7326: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/10/27/nose-to-tail-fin-to-table/</loc>
+		<lastmod>2011-11-11T20:05:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 7402: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/11/11/a-good-day-for-the-most-important-fish-in-the-sea/</loc>
+		<lastmod>2011-11-11T20:02:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 7230: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/10/17/small-scale-grains-delicious-and-nutritious/</loc>
+		<lastmod>2011-11-01T14:54:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/sustainable-food-summit/summit/walking-directions-for-breakout-sessions/</loc>
+		<lastmod>2011-10-18T17:48:03+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/sustainable-food-summit/summit/2011-summit-sponsors/</loc>
+		<lastmod>2011-10-17T17:55:29+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/sustainable-food-summit/summit/registration/thank-you-for-registering-for-the-2011-national-summit/</loc>
+		<lastmod>2011-10-05T20:22:31+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/sustainable-food-summit/summit/travel-and-accommodations/</loc>
+		<lastmod>2011-10-04T21:03:28+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/events/2011-boston-fundraiser/ffdiscount/</loc>
+		<lastmod>2011-09-30T21:26:50+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/sustainable-food-summit/summit/field-trips-and-activities/</loc>
+		<lastmod>2011-09-20T18:34:28+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 6828: Comments: 3 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/08/17/why-chefs-should-start-loving-apps/</loc>
+		<lastmod>2011-08-17T18:35:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 6806: Comments: 2 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/08/10/4-ways-to-use-a-recipe/</loc>
+		<lastmod>2011-08-15T16:25:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 6825: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/08/09/sturgeon-bananas-and-an-alpine-tropical-oasis/</loc>
+		<lastmod>2011-08-09T16:03:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 6773: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/08/01/lionfish-aquarium-escapees-gone-wild/</loc>
+		<lastmod>2011-08-01T13:19:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 6716: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/07/27/july-member-spotlight-my-gulf-wild/</loc>
+		<lastmod>2011-07-27T18:50:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 6318: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/07/05/get-your-sustainable-drink-on/</loc>
+		<lastmod>2011-07-22T18:08:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 6675: Comments: 2 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/07/20/national-geographic-and-heirlooms/</loc>
+		<lastmod>2011-07-20T17:55:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/sustainable-food-summit/summit/2011-sustainability-awards/</loc>
+		<lastmod>2011-07-20T17:05:16+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 6319: Comments: 2 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/07/06/fast-food-taking-a-step-in-a-sustainable-direction-or-is-it/</loc>
+		<lastmod>2011-07-15T17:02:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 6423: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/07/01/a-mouth-full-of-food-talk/</loc>
+		<lastmod>2011-07-01T19:51:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 6369: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/07/01/introducing-taryn-johnson-our-new-digital-media-intern/</loc>
+		<lastmod>2011-07-01T14:03:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 6333: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/06/28/asian-carp-destructive-and-delicious/</loc>
+		<lastmod>2011-06-28T18:56:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 6239: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/06/22/june-member-spotlight-chef-rob-corliss/</loc>
+		<lastmod>2011-06-22T18:25:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 6211: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/06/17/food-and-ag-under-the-big-sky/</loc>
+		<lastmod>2011-06-17T20:29:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 6141: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/06/14/adventures-in-oysters-part-1/</loc>
+		<lastmod>2011-06-16T20:15:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 6171: Comments: 3 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/06/15/eating-and-travellings-newest-trend-agritourism/</loc>
+		<lastmod>2011-06-15T16:45:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 6133: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/06/13/meet-mallory-our-new-communications-and-development-intern/</loc>
+		<lastmod>2011-06-13T15:12:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 6118: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/06/10/local-sustainable-suds/</loc>
+		<lastmod>2011-06-10T19:08:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 6073: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/06/09/putting-the-me-in-meat/</loc>
+		<lastmod>2011-06-09T19:55:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 6046: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/06/06/meet-morgan-our-summer-research-and-writing-intern/</loc>
+		<lastmod>2011-06-09T17:46:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 6017: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/05/31/for-cod-and-country/</loc>
+		<lastmod>2011-05-31T16:11:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5994: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/05/27/are-farmers-markets-better-for-chefs-discuss/</loc>
+		<lastmod>2011-05-27T15:58:49+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5979: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/05/26/what-does-isabella-rossellini-have-to-do-with-sustainable-seafood/</loc>
+		<lastmod>2011-05-26T14:45:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5829: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/05/25/billions-and-billions-of-dollars/</loc>
+		<lastmod>2011-05-25T15:47:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5959: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/05/24/making-things-happen-in-the-seacoast/</loc>
+		<lastmod>2011-05-24T17:54:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5926: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/05/20/in-the-news-6/</loc>
+		<lastmod>2011-05-20T15:10:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5836: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/05/19/the-man-behind-the-rabbits/</loc>
+		<lastmod>2011-05-19T19:37:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5879: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/05/18/great-weather-for-ducks-and-books/</loc>
+		<lastmod>2011-05-18T15:19:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5839: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/05/17/meet-member-marjorie-taylor/</loc>
+		<lastmod>2011-05-18T15:15:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5873: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/05/17/the-straight-answer-when-sourcing-salmon-its-complicated/</loc>
+		<lastmod>2011-05-17T21:42:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5780: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/05/12/power-in-customer-education/</loc>
+		<lastmod>2011-05-12T17:59:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5754: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/05/11/introducing-our-seacoast-local-leader/</loc>
+		<lastmod>2011-05-11T15:13:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5732: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/05/09/becoming-food-citizens/</loc>
+		<lastmod>2011-05-09T16:55:26+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5671: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/05/06/chefs-collaborative-consumption/</loc>
+		<lastmod>2011-05-09T16:46:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5666: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/05/04/why-is-conventional-beef-so-cheap-2/</loc>
+		<lastmod>2011-05-05T23:45:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5684: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/05/05/reflections-on-%e2%80%9cthe-future-of-food%e2%80%9d-conference-at-georgetown-university/</loc>
+		<lastmod>2011-05-05T18:52:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5518: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/04/22/elizabeth-andoh-and-kansha-cooking/</loc>
+		<lastmod>2011-04-29T14:50:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5587: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/04/26/find-us-on-facebook-or-twitter-if-we-be-friends/</loc>
+		<lastmod>2011-04-26T21:36:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5569: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/04/25/beau-vestal-and-his-rascally-rabbits/</loc>
+		<lastmod>2011-04-25T14:08:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5450: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/04/21/the-beef-with-beef-grain-fed-vs-grass-fed/</loc>
+		<lastmod>2011-04-21T14:52:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5543: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/04/20/one-year-ago-today/</loc>
+		<lastmod>2011-04-20T20:47:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5445: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/04/19/april-member-spotlight-chef-scott-pampuch-of-corner-table-and-tour-de-farm/</loc>
+		<lastmod>2011-04-19T14:46:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5467: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/04/14/meet-katie-our-new-communications-outreach-intern/</loc>
+		<lastmod>2011-04-14T18:30:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5429: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/04/08/catching-up-with-sparrow-arc-farm/</loc>
+		<lastmod>2011-04-08T18:47:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5421: Comments: 10 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/04/07/could-digging-ramps-have-unintended-consequences/</loc>
+		<lastmod>2011-04-08T14:51:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5388: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/04/06/seafood-sustainability-in-a-broader-context-dinner/</loc>
+		<lastmod>2011-04-06T17:06:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5398: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/04/05/rhode-island-big-things-in-a-little-state/</loc>
+		<lastmod>2011-04-05T19:06:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/join-us/new-member-drive/sample-e-mail-and-website-messaging/</loc>
+		<lastmod>2011-04-04T17:05:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/join-us/new-member-drive/facebooktwitter-messaging/</loc>
+		<lastmod>2011-04-04T15:21:47+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 5356: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/03/31/trace-and-trust-in-the-ocean-state-with-chef-derek-wagner/</loc>
+		<lastmod>2011-04-01T15:12:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5300: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/03/30/networking-with-brambly-farms/</loc>
+		<lastmod>2011-03-30T23:13:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5289: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/03/29/trace-trust-and-taste/</loc>
+		<lastmod>2011-03-29T15:29:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://chefscollaborative.org/category/articles/</loc>
+		<lastmod>2011-03-28T18:49:51+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 4404: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://chefscollaborative.org/category/articles/</loc>
+		<lastmod>2011-03-28T15:07:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5244: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/03/16/food-and-presidental-history-past-and-future/</loc>
+		<lastmod>2011-03-16T19:05:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5142: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/03/01/pebble-mine-a-threat-to-alaskan-salmon/</loc>
+		<lastmod>2011-03-01T14:29:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5117: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/02/23/february-member-spotlight-primal-alchemy-catering/</loc>
+		<lastmod>2011-02-25T13:39:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5025: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/02/23/the-big-salmon-debate/</loc>
+		<lastmod>2011-02-23T14:38:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5058: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/02/22/sustainable-meat-wrapped-up/</loc>
+		<lastmod>2011-02-23T02:39:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5046: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/02/18/in-the-news-5/</loc>
+		<lastmod>2011-02-18T14:33:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5019: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/02/11/in-the-news-4/</loc>
+		<lastmod>2011-02-11T21:47:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4983: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/02/09/how-is-your-salmon-handled/</loc>
+		<lastmod>2011-02-11T20:16:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4968: Comments: 3 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/02/10/heirloom-tastes/</loc>
+		<lastmod>2011-02-10T21:21:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4963: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/02/04/in-the-news-3/</loc>
+		<lastmod>2011-02-04T15:38:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4925: Comments: 2 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/02/01/five-more-fish/</loc>
+		<lastmod>2011-02-01T16:56:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4917: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/01/28/in-the-news-2/</loc>
+		<lastmod>2011-01-28T14:03:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4911: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/01/26/what-i-learned-at-the-%e2%80%98blacklisted-fish%e2%80%99-dinner-at-legal-sea-foods/</loc>
+		<lastmod>2011-01-26T21:02:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4891: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/01/25/an-introduction-and-five-farmed-fish/</loc>
+		<lastmod>2011-01-25T19:05:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4875: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/01/24/small-taste/</loc>
+		<lastmod>2011-01-24T19:16:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4866: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/01/21/in-the-news/</loc>
+		<lastmod>2011-01-21T22:28:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4803: Comments: 3 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/01/18/what-does-sustainable-seafood-mean/</loc>
+		<lastmod>2011-01-18T19:37:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4781: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/01/18/january-member-spotlight-chef-mary-dumont-of-harvest/</loc>
+		<lastmod>2011-01-18T14:49:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4806: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/01/14/a-short-hello/</loc>
+		<lastmod>2011-01-14T15:35:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4773: Comments: 6 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2011/01/10/mr-berkowitz-thank-you-for-sparking-a-debate-about-sustainable-seafood/</loc>
+		<lastmod>2011-01-10T22:51:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4744: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/12/20/today-is-monday-in-louisiana/</loc>
+		<lastmod>2010-12-20T16:58:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4738: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/12/17/weekly-news-roundup/</loc>
+		<lastmod>2010-12-17T21:04:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4713: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/12/15/wrapping-up-the-2010-raft-grow-out-season/</loc>
+		<lastmod>2010-12-15T14:57:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4656: Comments: 3 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/12/13/member-spotlight-chef-roy-breiman-of-cedarbrook-lodge/</loc>
+		<lastmod>2010-12-14T14:15:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4684: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/12/10/weekly-member-news-roundup-3/</loc>
+		<lastmod>2010-12-10T17:03:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4639: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/12/08/5-factors-shaping-creativity-in-the-kitchen-by-pennsylvania-based-cc-members-ideas-in-food/</loc>
+		<lastmod>2010-12-08T21:49:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4620: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/12/01/sustainable-food-policy-roundup/</loc>
+		<lastmod>2010-12-06T15:11:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4630: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/12/06/how-to-handle-fish-part-2-plus-a-fishing-trip-with-cc-chefs-by-jon-rowley/</loc>
+		<lastmod>2010-12-06T15:00:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4628: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/12/03/weekly-member-news-roundup-2/</loc>
+		<lastmod>2010-12-03T20:23:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4460: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/11/12/this-weeks-member-news/</loc>
+		<lastmod>2010-12-03T16:47:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4468: Comments: 3 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/11/29/the-tamworth-pig-by-new-hampshire-cc-member-lisa-richards-of-mack-hill-farm/</loc>
+		<lastmod>2010-11-29T14:38:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4589: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/11/24/thoughtful-turkey-eating-by-chicago-area-cc-member-grant-kessler-2/</loc>
+		<lastmod>2010-11-24T15:37:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4533: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/11/19/weekly-member-news-roundup/</loc>
+		<lastmod>2010-11-19T15:30:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4458: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/11/17/action-alert-support-a-fair-safe-food-system/</loc>
+		<lastmod>2010-11-17T17:46:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4453: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/11/15/the-beautiful-taste-fish-handling-part-1-by-jon-rowley/</loc>
+		<lastmod>2010-11-15T15:53:26+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4451: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/11/10/holistic-sustainability-by-wanda-arakaki-leopold-of-organic-networking-ltd/</loc>
+		<lastmod>2010-11-10T18:10:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4448: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/11/08/save-the-gulf-order-shrimp/</loc>
+		<lastmod>2010-11-08T19:55:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4443: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/11/08/is-culinary-heritage-a-good-idea/</loc>
+		<lastmod>2010-11-08T17:34:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4392: Comments: 2 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/11/03/what-i-learned-at-farm-camp-by-executive-director-melissa-kogut/</loc>
+		<lastmod>2010-11-05T13:36:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3774: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://chefscollaborative.org/category/articles/</loc>
+		<lastmod>2010-10-29T18:18:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://chefscollaborative.org/category/articles/</loc>
+		<lastmod>2010-10-29T18:03:14+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 3950: Comments: 3 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/07/27/member-spotlight-author-deborah-krasner/</loc>
+		<lastmod>2010-10-29T17:18:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4385: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/10/28/2010-national-summit-through-one-chefs-eyes/</loc>
+		<lastmod>2010-10-28T18:39:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4370: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/10/19/in-season-culinary-pumpkins/</loc>
+		<lastmod>2010-10-19T20:46:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4357: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/10/15/chefs-collaborative-announces-sustainability-award-winners/</loc>
+		<lastmod>2010-10-16T02:29:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4321: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/09/23/heirloom-harvest-barn-dinner/</loc>
+		<lastmod>2010-09-23T15:28:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4147: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/09/09/savoring-and-saving-our-nations-largest-wild-salmon-fishery/</loc>
+		<lastmod>2010-09-09T17:13:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4250: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/09/07/september-member-spotlight-brady-lowe/</loc>
+		<lastmod>2010-09-09T17:12:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/sustainable-food-summit/summit/past-summits/summit-materials/</loc>
+		<lastmod>2010-08-31T17:51:50+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 4184: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/08/27/whats-an-heirloom-and-why-should-i-eat-one/</loc>
+		<lastmod>2010-08-27T16:24:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4155: Comments: 2 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/08/24/garden-at-the-cellar-serves-up-an-heirloom-feast/</loc>
+		<lastmod>2010-08-24T18:47:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4132: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/08/16/tomato/</loc>
+		<lastmod>2010-08-16T16:24:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4096: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/08/11/switching-it-up-farmers-visit-chefs/</loc>
+		<lastmod>2010-08-11T18:33:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4038: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/08/06/a-delicious-day-out-at-red-fire-farm/</loc>
+		<lastmod>2010-08-06T17:16:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3997: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/08/03/sustainable-seafoodies/</loc>
+		<lastmod>2010-08-03T16:25:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3965: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/07/28/around-the-country-farmer-chef-connections-flourish/</loc>
+		<lastmod>2010-07-28T19:00:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3910: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/07/26/chefs-gather-for-sustainable-seafood/</loc>
+		<lastmod>2010-07-26T16:09:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3911: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/07/21/rebuilding-americas-economy-with-family-farm-centered-food-systems/</loc>
+		<lastmod>2010-07-21T16:05:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3901: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/07/20/ocean-policy-task-force/</loc>
+		<lastmod>2010-07-20T15:55:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3894: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/07/19/long-pie-pumpkins-at-schartner-farms/</loc>
+		<lastmod>2010-07-19T21:22:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3887: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/07/16/heirlooms-food-art-or-both/</loc>
+		<lastmod>2010-07-16T16:57:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3819: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/07/15/gulf-seafood-update/</loc>
+		<lastmod>2010-07-15T15:47:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3853: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/07/15/making-the-farm-to-table-connection/</loc>
+		<lastmod>2010-07-15T13:22:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3787: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/07/12/chefs-down-on-the-farm/</loc>
+		<lastmod>2010-07-12T21:55:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3203: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/04/29/chefs-collaborative-newsletter-spring-2010/</loc>
+		<lastmod>2010-07-09T18:41:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3737: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/07/07/roof-gardens-bring-produce-even-closer-to-home/</loc>
+		<lastmod>2010-07-09T16:32:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3763: Comments: 2 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/07/09/for-chefs-getting-their-hands-dirty-makes-economic-sense-2/</loc>
+		<lastmod>2010-07-09T15:16:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3719: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/07/04/food-is-patriotic/</loc>
+		<lastmod>2010-07-04T16:01:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3683: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/07/02/organic-farming-more-bugs-and-bigger-better-plants/</loc>
+		<lastmod>2010-07-02T14:18:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3647: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/06/30/worlds-largest-seed-bank-of-fruits-and-berries-under-threat/</loc>
+		<lastmod>2010-06-30T14:46:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3635: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/06/29/chefs-flock-to-grand-isle-la-to-show-support-for-gulf-seafood/</loc>
+		<lastmod>2010-06-29T20:12:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3595: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/06/28/susan-spicer-files-lawsuit-against-bp/</loc>
+		<lastmod>2010-06-28T15:28:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3581: Comments: 2 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/06/25/ch-ch-ch-changes/</loc>
+		<lastmod>2010-06-25T20:10:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3568: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/06/25/little-plants-big-plans/</loc>
+		<lastmod>2010-06-25T15:22:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3508: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/06/23/june-member-spotlight-the-goose-chaser-farm/</loc>
+		<lastmod>2010-06-23T17:20:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3411: Comments: 3 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/06/17/eat-it-to-save-it/</loc>
+		<lastmod>2010-06-18T13:42:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3381: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/06/17/louisiana-chefs-face-shortages-regional-food-dilemma/</loc>
+		<lastmod>2010-06-18T01:08:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3315: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/06/07/the-latest-on-the-bp-oil-disaster/</loc>
+		<lastmod>2010-06-14T13:40:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 859: Comments: 2 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/03/11/pork-report-whole-hog-sustainability/</loc>
+		<lastmod>2010-06-10T18:10:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2774: Comments: 4 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/11/02/five-tips-for-managing-food-costs/</loc>
+		<lastmod>2010-06-10T18:06:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2840: Comments: 7 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/01/14/cooking-with-heirloom-beans/</loc>
+		<lastmod>2010-06-10T18:03:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3302: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/05/13/gulf-oil-spill-update/</loc>
+		<lastmod>2010-05-13T20:02:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1214: Comments: 5 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/03/11/chefs-guide-to-sourcing-sustainable-seafood/</loc>
+		<lastmod>2010-05-06T21:28:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3257: Comments: 7 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/05/06/the-effects-of-the-gulf-coast-oil-spill/</loc>
+		<lastmod>2010-05-06T20:39:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3239: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/05/04/gloucester-to-trace-its-cleanfish/</loc>
+		<lastmod>2010-05-04T14:31:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/events/earth-dinner-program/participating-restaurants/</loc>
+		<lastmod>2010-04-30T16:43:58+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 3114: Comments: 5 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/04/01/where-have-all-the-slaughterhouses-gone/</loc>
+		<lastmod>2010-04-09T14:42:49+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3106: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/03/26/cold-fish-hot-topic-thoughts-from-the-international-boston-seafood-show/</loc>
+		<lastmod>2010-03-26T20:50:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3047: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/03/23/chefs-collaborative-members-get-some-love-from-james-beard/</loc>
+		<lastmod>2010-03-25T20:07:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 3026: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/03/19/fda-wants-your-opinion/</loc>
+		<lastmod>2010-03-21T14:37:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2993: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/03/05/lovin-livin-sans-monsanto/</loc>
+		<lastmod>2010-03-09T16:38:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2942: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/02/24/from-the-ground-to-your-belly-adventures-with-a-farmer-and-chef/</loc>
+		<lastmod>2010-02-24T15:11:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2862: Comments: 3 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2010/01/27/lionfish-and-asian-carp-oh-my/</loc>
+		<lastmod>2010-02-09T19:22:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2818: Comments: 6 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/12/11/diy-pigtastic-porklicious/</loc>
+		<lastmod>2009-12-11T21:39:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2806: Comments: 2 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/11/25/whats-cooking-at-the-white-house/</loc>
+		<lastmod>2009-11-25T17:29:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2779: Comments: 9 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/11/03/blood-guts-and-feathers/</loc>
+		<lastmod>2009-11-03T19:45:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2766: Comments: 3 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/10/22/a-case-for-hope-and-action/</loc>
+		<lastmod>2009-10-22T17:45:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2743: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/10/16/served-in-a-barn-a-menu-fit-for-kings/</loc>
+		<lastmod>2009-10-16T20:21:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2723: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/10/16/newport/</loc>
+		<lastmod>2009-10-16T18:11:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2680: Comments: 7 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/10/14/oh-providence-how-delicious-you-are/</loc>
+		<lastmod>2009-10-16T18:10:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2693: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/10/15/raft-boston-another-outstanding-combination/</loc>
+		<lastmod>2009-10-16T18:02:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2656: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/10/13/a-real-barn-burner/</loc>
+		<lastmod>2009-10-14T18:06:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2511: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/09/21/interesting-food-interesting-people/</loc>
+		<lastmod>2009-10-13T21:16:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2635: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/10/09/the-sad-and-mad-week-in-food/</loc>
+		<lastmod>2009-10-09T21:11:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2439: Comments: 2 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/08/31/seriously-this-lettuce-is-not-diseased/</loc>
+		<lastmod>2009-08-31T19:48:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2367: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/08/25/culinary-artists-find-inspiration-in-vegetables/</loc>
+		<lastmod>2009-08-25T23:27:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2234: Comments: 2 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/08/10/a-visit-to-heritage-farm/</loc>
+		<lastmod>2009-08-10T22:22:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2110: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/07/24/adventures-in-aquaculture/</loc>
+		<lastmod>2009-07-27T17:56:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1852: Comments: 14 of 258 = 0.1 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/06/03/magic-marfax-beans/</loc>
+		<lastmod>2009-06-24T21:02:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2034: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/06/23/an-ongoing-battle/</loc>
+		<lastmod>2009-06-24T20:11:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1478: Comments: 2 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/05/08/one-last-sip/</loc>
+		<lastmod>2009-05-08T20:09:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1442: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/04/22/a-new-earth-day/</loc>
+		<lastmod>2009-04-29T20:45:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1373: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/04/09/the-prince-of-pork/</loc>
+		<lastmod>2009-04-16T19:35:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1304: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/03/25/praise-for-righteous-porkchop/</loc>
+		<lastmod>2009-04-09T15:10:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1227: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/03/12/chefs-farmers-and-seeds/</loc>
+		<lastmod>2009-03-26T15:42:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1282: Comments: 4 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2009/03/24/local-food-distribution-report/</loc>
+		<lastmod>2009-03-26T14:06:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 272: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/12/17/biodiversity-friendly-menus/</loc>
+		<lastmod>2009-03-13T16:08:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 283: Comments: 2 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/01/04/theres-something-about-shrimp/</loc>
+		<lastmod>2009-03-13T15:55:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 60: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/01/01/figuring-out-fair-trade/</loc>
+		<lastmod>2009-03-06T18:18:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/05/01/communique-one/</loc>
+		<lastmod>2009-03-06T18:13:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 134: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/08/01/get-your-game-on/</loc>
+		<lastmod>2009-03-06T18:12:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/join-us/obama-letter/letter-to-president-and-mrs-obama/</loc>
+		<lastmod>2009-02-25T18:46:59+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 30: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2006/10/01/udderly-complex-examining-organic-dairy/</loc>
+		<lastmod>2009-02-09T21:16:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 135: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2006/07/01/gulp/</loc>
+		<lastmod>2009-02-09T21:15:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/join-us/obama-letter/thank-you/</loc>
+		<lastmod>2009-01-13T17:08:16+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/join-us/obama-letter/make-your-gift/</loc>
+		<lastmod>2008-12-19T17:01:53+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 606: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/12/02/in-the-fight-for-a-food-supply-we-can-be-proud-of/</loc>
+		<lastmod>2008-12-02T14:25:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 536: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/10/30/sweet-seasons/</loc>
+		<lastmod>2008-10-30T20:32:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 499: Comments: 4 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/10/22/slow-shrimp/</loc>
+		<lastmod>2008-10-23T18:26:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 477: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/10/08/the-green-mountain-state-is-my-hero/</loc>
+		<lastmod>2008-10-08T14:56:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 464: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/09/29/adventures-in-kalamazoo/</loc>
+		<lastmod>2008-09-30T13:57:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 376: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/09/05/reflections-on-slow-food-nation/</loc>
+		<lastmod>2008-09-05T16:59:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 369: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/07/28/what-a-waste/</loc>
+		<lastmod>2008-07-30T18:41:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 367: Comments: 2 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/07/18/the-low-carbon-emissions-diet-why-is-it-important/</loc>
+		<lastmod>2008-07-18T16:04:26+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 357: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/07/03/chefs-guide-to-sourcing-sustainable-seafood-2/</loc>
+		<lastmod>2008-07-03T17:56:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.chefscollab.org/programs/chef-the-sea/a-chefs-guide/</loc>
+		<lastmod>2008-06-23T16:20:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 336: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/06/12/spotlight-is-on-local-sustainable-ingredients-at-beard-awards-2008/</loc>
+		<lastmod>2008-06-13T20:10:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 335: Comments: 10 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/06/12/some-rotten-tomatoes/</loc>
+		<lastmod>2008-06-12T19:09:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 333: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/05/09/food-miles-only-a-piece-of-the-puzzle/</loc>
+		<lastmod>2008-05-09T19:36:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 330: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/04/29/yes/</loc>
+		<lastmod>2008-04-29T20:46:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 329: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/04/24/theres-a-silver-lining-here-somewhere/</loc>
+		<lastmod>2008-04-24T19:14:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 326: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/04/24/eating-and-earth-day/</loc>
+		<lastmod>2008-04-24T19:14:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 312: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/04/01/fun-with-pork-lots-of-fun/</loc>
+		<lastmod>2008-04-01T16:04:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 310: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/03/26/scaling-up/</loc>
+		<lastmod>2008-03-26T18:45:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 307: Comments: 2 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/03/14/a-model-food-community/</loc>
+		<lastmod>2008-03-21T20:27:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 301: Comments: 2 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/02/21/our-friends-and-neighbors/</loc>
+		<lastmod>2008-02-22T16:08:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 289: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/01/16/from-delicacy-to-commodity-and-then-where/</loc>
+		<lastmod>2008-01-17T14:38:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 270: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/12/17/admirably-simple/</loc>
+		<lastmod>2008-01-02T21:35:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 279: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2008/01/02/taking-stock-of-successes-with-local-foods/</loc>
+		<lastmod>2008-01-02T19:13:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 263: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/11/28/mmm-meat/</loc>
+		<lastmod>2007-11-28T22:26:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 254: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/11/08/chefs-food-and-the-farm-bill/</loc>
+		<lastmod>2007-11-08T21:24:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 226: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/10/05/making-a-spash-at-clash/</loc>
+		<lastmod>2007-11-06T19:46:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 252: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/10/26/a-raw-deal/</loc>
+		<lastmod>2007-10-26T20:14:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 242: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/10/18/king-corn-and-more/</loc>
+		<lastmod>2007-10-18T14:34:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 179: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/09/25/the-perfect-plate/</loc>
+		<lastmod>2007-09-26T18:57:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 167: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/09/24/pancakes-and-bacon-and-yogurt-all-local-oh-my/</loc>
+		<lastmod>2007-09-24T17:20:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 156: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/09/24/rocking-out-at-farm-aid/</loc>
+		<lastmod>2007-09-24T13:51:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 138: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2006/08/01/in-international-waters/</loc>
+		<lastmod>2007-09-21T19:46:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 131: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/09/06/aye-robot/</loc>
+		<lastmod>2007-09-21T19:45:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 132: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/09/06/an-urban-challenge/</loc>
+		<lastmod>2007-09-21T19:44:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 87: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/08/28/certificate-of-authenticity/</loc>
+		<lastmod>2007-09-14T16:10:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 161: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/09/14/a-different-kind-of-foraging/</loc>
+		<lastmod>2007-09-14T14:31:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 116: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/08/25/cowboy-up/</loc>
+		<lastmod>2007-09-12T21:27:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 85: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/08/30/our-friends-are-edible/</loc>
+		<lastmod>2007-09-06T17:39:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 126: Comments: 1 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/09/04/punk-rock-pastry-and-a-dog-on-every-corner-food-notes-from-chicago/</loc>
+		<lastmod>2007-09-05T20:04:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 72: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/08/28/it-could-be-so-cool/</loc>
+		<lastmod>2007-09-04T15:24:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 105: Comments: 0 of 258 = 0 points -->
+	<url>
+		<loc>http://local.chefscollab.org/2007/08/30/root-root-root-for-the-hometeam/</loc>
+		<lastmod>2007-08-30T21:19:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>
