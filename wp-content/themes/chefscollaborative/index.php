@@ -1,8 +1,7 @@
 
 <?php get_header(); ?>
-
+<?php get_sidebar(); ?>
 <div id="content" class="column">
-
 	<div class="main">
 			<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 
@@ -45,5 +44,4 @@
 			</div>
 	</div> <!-- /main -->
 </div> <!-- /content -->
-<?php get_sidebar(); ?>
 <?php get_footer(); ?>

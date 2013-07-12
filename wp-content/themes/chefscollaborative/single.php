@@ -1,9 +1,5 @@
 <?php get_header(); ?>
-<style type="text/css">
-	#header {
-		
-	}
-</style>
+<?php get_sidebar(); ?>
 <div id="content" class="column">
 	<div class="main">
 		<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
@@ -52,5 +48,4 @@
 		<?php endif; ?>
 	</div><!-- /main -->
 </div><!-- /content -->
-<?php get_sidebar(); ?>
 <?php get_footer(); ?>

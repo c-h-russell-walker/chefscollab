@@ -3,23 +3,19 @@
 <div id="left" class="column">
 <?php if (is_frontpage()) { ?>
 	<div class="sidebar">
+		<ul class="nav-cont"></ul>
 		<ul>
-			<?php if ( function_exists('dynamic_sidebar') && dynamic_sidebar('Front Right Sidebar') ) : else : ?>
-
-			<li><h2><?php _e('Last Entries'); ?></h2>
-				<ul><?php get_archives('postbypost', '10', 'custom', '<li>', '</li>'); ?></ul>
-			</li>
-			<li><h2><?php _e('Archives'); ?></h2>
-				<ul><?php wp_get_archives('type=monthly'); ?></ul>
-			</li>
-		<?php endif; ?>
+			<?php widget_newsletter_subscribe(); ?>
+			<?php widget_join_now(); ?>
 		</ul>
 	</div> <!-- /sidebar front -->
 <?php } else { ?>
 	<div class="sidebar">
+		<ul class="nav-cont">
+			<?php wswwpx_fold_page_list('sort_column=menu_order,post_title&title_li=&exclude=3,661,632,670,673,1786'); ?>
+		</ul>
 		<ul>
 			<?php widget_newsletter_subscribe(); ?>
-			<?php widget_join_now(); ?>
 		</ul>
 	</div> <!-- /sidebar inside -->
 <?php } ?>

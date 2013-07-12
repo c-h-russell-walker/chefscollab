@@ -401,7 +401,7 @@ function _wswwpx_tree_sublevels_out($parent, $page_tree, $args, $depth = 0, $ful
 			if(isset($cur_page['children']) && is_array($cur_page['children'])) {
 				$new_depth = $depth + 1;
 				if(!$args['depth'] ||  $depth < ($args['depth']-1)) {
-					$output .= "$indent<ul>\n";
+					$output .= "$indent<ul class='child-list'>\n";
 					$output .= _wswwpx_tree_sublevels_out($page_id, $page_tree, $args, $new_depth, $fullunfold, $echo);
 					$output .= "$indent</ul>\n";
 				}

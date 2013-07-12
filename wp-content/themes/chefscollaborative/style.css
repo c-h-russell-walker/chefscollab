@@ -35,6 +35,7 @@ Author URI: http://www.tashian.com/carl/
 #page-wrapper {
 	position: relative;
 	width: 960px;
+	min-height: 780px;
 	background: url(images/wide_page_bg.png) repeat-y #FFF;
 	margin: 0px auto;
 	text-align: left;
@@ -43,7 +44,7 @@ Author URI: http://www.tashian.com/carl/
 
 #wrapper {
 	position: relative;
-	margin: 10px auto;
+	margin: 0 auto 10px auto;
 }
 
 #wrapper .column {
@@ -54,7 +55,6 @@ Author URI: http://www.tashian.com/carl/
 
 #content {
 	width: 680px;
-	background-color: #fff;
 }
 
 #left {
@@ -176,8 +176,9 @@ body {
 
 #homelink a {
 	position: absolute;
-	width: 200px;
-	height: 160px;
+	left: 56px;
+	width: 257px;
+	height: 183px;
 	text-decoration: none;
 }
 
@@ -857,18 +858,18 @@ p.comment_meta {
 .sidebar li.page_item a,
 .sidebar li.page_item a:link,
 .sidebar li.page_item a:visited {
-	color: #bd4747;
+	color: #000;
 }
 
 .sidebar li.page_item a:hover,
 .sidebar li.page_item a:active {
-	color: #b66f00;
+	color: #417630;
 }
 
 .sidebar li.current_page_item > a,
 .sidebar li.current_page_item > a:link,
 .sidebar li.current_page_item > a:visited {
-	color: #b66f00;
+	color: #417630;
 }
 
 /* Upcoming calendar styles */
@@ -1110,3 +1111,83 @@ img.alignleft {
 	margin: 0;
 }
 /* End captions & aligment */
+
+/* START TOP NAV STYLES */
+#top-nav {
+  	background-color: #E2E1DD;
+	height: 47px;
+	text-align: center;
+}
+#top-nav ul {
+  	list-style: none;
+	margin: 0;
+	vertical-align: middle;
+	padding: 0;
+}
+#top-nav ul li {
+	display: inline-block;
+	color: #417630;
+	margin-right: 6px;
+}
+#top-nav ul li a {
+	color: #417630;
+	padding-right: 10px;
+	line-height: 3.333em;
+	border-right: 1px solid #417630;
+}
+#top-nav ul li:last-child a {
+	border: none;
+}
+#top-nav ul li a:hover {
+	color: #000;
+	text-decoration: none;
+}
+#top-nav .sub-nav a {
+	border: 1px solid black;
+	border-bottom: none;
+	height: 35px;
+	line-height: 35px;
+}
+#top-nav .sub-nav a.last-nav {
+	border-bottom: 1px solid black;
+}
+#top-nav .sub-nav ul li a {
+	border-left: none;
+	color: #000;
+	background-color: #8CAF63;
+}
+#top-nav .sub-nav ul li a:hover {
+	color: #FFF;
+	background-color: #417630;
+}
+
+#left .sidebar li.page_item {
+	display: none;
+}
+#left .sidebar li.current_page_ancestor,
+#left .sidebar li.current_page_item {
+	display: inherit;
+}
+#left .sidebar li.current_page_ancestor a,
+#left .sidebar li.current_page_item a {
+	display: none;
+}
+#left .sidebar .nav-cont .child-list li a,
+#left .sidebar .nav-cont .child-list li {
+	display: inline-block;
+}
+#left .sidebar .nav-cont {
+	background-color: #E2E1DD;
+	margin: 20px 10px;
+	padding: 0 10px;
+	width: 200px;
+}
+#left .sidebar .nav-cont li a {
+	height: auto;
+}
+#left .sidebar .nav-cont .child-list li:first-child {
+	margin-top: 10px;
+}
+#left .sidebar .nav-cont .child-list li:last-child {
+	margin-bottom: 10px;
+}
