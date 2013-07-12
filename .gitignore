@@ -6,6 +6,8 @@ wp-content/uploads/*
 # sitemap.*
 wp-config.php
 local.config.php
+sitemap.xml
+sitemap.xml.gz
 
 # Text editor files
 .komodotools/*
