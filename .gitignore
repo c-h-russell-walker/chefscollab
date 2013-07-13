@@ -3,11 +3,9 @@ wp-content/updraft/*
 # wp-content/cache/*
 wp-content/upgrade/*
 wp-content/uploads/*
-# sitemap.*
+sitemap.*
 wp-config.php
 local.config.php
-sitemap.xml
-sitemap.xml.gz
 
 # Text editor files
 .komodotools/*

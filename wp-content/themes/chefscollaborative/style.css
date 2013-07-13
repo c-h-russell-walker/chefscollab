@@ -72,33 +72,34 @@ Author URI: http://www.tashian.com/carl/
 	font-size: 10px;
 }
 
-#footer div {
+#footer div.cont {
 	margin-bottom: 15px;
 	line-height: 40px;
 }
 
-#facebook-footer {
-	text-indent: -9999px;
-	margin-left: 10px;
-	display: inline-block;
-	height: 40px;
-	width: 40px;
-	background-image: url(images/facebook-icon-40x40.gif);
+#footer .menu-bottom-nav-container {
+	line-height: 18.2px;
+	display: inline;
 }
 
-#twitter-footer {
-	text-indent: -9999px;
-	margin-left: 10px;
-	display: inline-block;
-	height: 40px;
-	width: 40px;
-	background-image: url(images/twitter-icon-small.png);
+#menu-bottom-nav {
+	padding: 0;
+	margin: 0;
+	display: inline;
 }
 
-#facebook-footer:hover,
-#twitter-footer:hover {
-	transform: scale(1.1);
-	opacity: 0.7;
+#menu-bottom-nav li {
+	display: inline;
+	margin-left: 5px;
+	border-right: 1px solid #000;
+}
+
+#menu-bottom-nav li:last-child {
+	border-right: none;
+}
+
+#menu-bottom-nav li a {
+	margin-right: 7px;
 }
 
 ul.readmore {
@@ -148,7 +149,7 @@ p {margin: 3px 0 15px 0; padding: 0;}
 	font-weight: bold;
 }
 
-.latest{
+.latest {
 	background: #fff;
 	padding: 15px 0;
 	margin: 0px;
@@ -532,6 +533,7 @@ blockquote {
 	display: block;
 	width: 250px;
 	height: 79px;
+	margin-top: 20px;
 }
 
 .sidebar li.newsletter h2 {
@@ -574,12 +576,14 @@ blockquote {
 
 .sidebar li.joinus {
 	margin-top: 10px;
-	border-top: 2px solid #DFDEDA;
 }
 
 .sidebar li.donate {
 	margin-bottom: 10px;
-	border-bottom: 2px solid #DFDEDA;
+}
+
+.sidebar li.twenty-years {
+	text-align: center;
 }
 
 .sidebar li a {
@@ -681,21 +685,21 @@ ul li.upcoming h2 img.arrow,
 
 /* subheads for posts, or metadata */
 .main .entrymeta h3 {
-	background: url(images/22px-biege-gradient.gif) repeat-x;
+/*	background: url(images/22px-biege-gradient.gif) repeat-x;*/
 	height: 22px;
 	line-height: 24px;
 	font-size: 13px;
 	font-family: Frutiger, Univers, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-weight: normal;
 	text-transform: uppercase;
-	color: #fff;
+	/*color: #fff;*/
 	letter-spacing: 1px;
 	padding: 0 0 0 18px;
 	margin: 1px 0 2px 0;
 }
 
 .main .entry {
-	background: url(images/586px-biege-gradient.gif) repeat-x;
+	/*background: url(images/586px-biege-gradient.gif) repeat-x;*/
 	min-height: 200px;
 	padding: 10px 10px 10px 18px;
 }
@@ -840,13 +844,13 @@ p.comment_meta {
 }
 
 .sidebar li li li {
-	padding: 0px;
-	margin: 0px;
+	padding: 0;
+	margin: 0;
 }
 
 .sidebar ul ul ul {
-	padding: 0px;
-	margin: 0px;
+	padding: 0;
+	margin: 0 0 0 7px;
 }
 
 /* For the global navigation */
@@ -1116,7 +1120,7 @@ img.alignleft {
 #top-nav {
   	background-color: #E2E1DD;
 	height: 47px;
-	text-align: center;
+	padding-left: 20px;
 }
 #top-nav ul {
   	list-style: none;
@@ -1167,6 +1171,8 @@ img.alignleft {
 #left .sidebar li.current_page_ancestor,
 #left .sidebar li.current_page_item {
 	display: inherit;
+	padding-bottom: 10px;
+    padding-top: 10px;
 }
 #left .sidebar li.current_page_ancestor a,
 #left .sidebar li.current_page_item a {
@@ -1177,18 +1183,16 @@ img.alignleft {
 	display: inline-block;
 	width: 180px;
 }
+#left .sidebar .nav-cont .child-list .child-list li a:before {
+	content: "- ";
+}
 #left .sidebar .nav-cont {
 	background-color: #E2E1DD;
-	margin: 20px 10px;
-	padding: 0 10px;
-	width: 200px;
+	margin-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 225px;
 }
 #left .sidebar .nav-cont li a {
 	height: auto;
-}
-#left .sidebar .nav-cont .child-list li:first-child {
-	margin-top: 10px;
-}
-#left .sidebar .nav-cont .child-list li:last-child {
-	margin-bottom: 10px;
 }

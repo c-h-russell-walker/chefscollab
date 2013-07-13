@@ -4,13 +4,8 @@
 	</div> <!-- /wrapper -->
 
 	<div id="footer">
-		<div>Copyright &copy; <?php echo('2007 - '.date('Y')) ?> by
-				<a href="<?php bloginfo('url'); ?>"><?php bloginfo('name'); ?></a> |
-				<a href="<?php bloginfo('url'); ?>/about/">About</a> |
-				<a href="<?php bloginfo('url'); ?>/join-us/">Members</a> |
-				<a href="<?php bloginfo('url'); ?>/about/contact-us/">Contact Us</a>
-				<a href="https://www.facebook.com/ChefsCollaborative" id="facebook-footer" target="_blank">Facebook</a>
-				<a href="https://twitter.com/chefscollab" id="twitter-footer" target="_blank">Twitter</a>
+		<div class="cont">Copyright &copy; <?php echo('2007 - '.date('Y')) ?> by
+			<?php wp_nav_menu(array('menu'=>'Bottom Nav')); ?>
 		</div>
 		<?php do_action('wp_footer', ''); ?>
 		<div style="clear: both"></div>
