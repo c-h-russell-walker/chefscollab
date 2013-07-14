@@ -1,5 +1,15 @@
 <?php
 
+// Remove the WordPress Generator Meta Tag
+function remove_generator_filter() { return ''; }
+
+if (function_exists('add_filter')) {
+    $types = array('html', 'xhtml', 'atom', 'rss2', /*'rdf',*/ 'comment', 'export');
+
+    foreach ($types as $type)
+    add_filter('get_the_generator_'.$type, 'remove_generator_filter');
+}
+
 // Widget Settings
 
 if ( function_exists('register_sidebar') ) {

@@ -838,6 +838,7 @@ p.comment_meta {
 
 .sidebar li.page_item ul {
 	padding-left: 7px;
+	display: block;
 }
 
 .sidebar ul li ul li {
@@ -1183,7 +1184,7 @@ img.alignleft {
 #left .sidebar .nav-cont .child-list li a,
 #left .sidebar .nav-cont .child-list li {
 	display: inline-block;
-	width: 180px;
+	margin-left: 5px;
 }
 #left .sidebar .nav-cont .child-list .child-list li a:before {
 	content: "- ";
@@ -1191,9 +1192,8 @@ img.alignleft {
 #left .sidebar .nav-cont {
 	background-color: #E2E1DD;
 	margin-top: 20px;
-	padding-left: 10px;
-	padding-right: 10px;
-	width: 225px;
+	margin-right: 23px;
+	display: block;
 }
 #left .sidebar .nav-cont li a {
 	height: auto;
