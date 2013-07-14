@@ -13,8 +13,6 @@
 <link rel="alternate" type="application/rss+xml" title="<?php bloginfo('name'); ?> RSS Feed" href="<?php bloginfo('rss2_url'); ?>" />
 <link rel="shortcut icon" type="image/ico" href="<?php bloginfo('template_url'); ?>/favicon.ico" />
 
-<script src="<?php bloginfo('template_url'); ?>/js/chefs.min.js?ver=071413" type="text/javascript"></script>
-
 <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
 
 <?php // wp_get_archives('type=monthly&format=link'); ?>
