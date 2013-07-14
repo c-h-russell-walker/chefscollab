@@ -1172,10 +1172,10 @@ img.alignleft {
 	display: none;
 }
 #left .sidebar li.current_page_ancestor,
-#left .sidebar li.current_page_item {
-	display: inherit;
+#left .sidebar li.current_page_item.page_folder {
 	padding-bottom: 10px;
     padding-top: 10px;
+	display: inherit;
 }
 #left .sidebar li.current_page_ancestor a,
 #left .sidebar li.current_page_item a {
