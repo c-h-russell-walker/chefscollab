@@ -358,6 +358,9 @@ function _wswwpx_tree_sublevels_out($parent, $page_tree, $args, $depth = 0, $ful
 	$all_children  = _wswwpx_page_get_descendant_ids($all_ancestors[0]);	// Get all children of the non-zero root parent of current page
 	foreach($page_tree[$parent]['children'] as $page_id) {
 		$withChild = _wswwpx_page_get_child_ids ( $page_id );
+		if ($page_id == 986) {
+		 	$withChild = false;
+		}
 		$cur_page = $page_tree[$page_id];
 		$page_ancestors = _wswwpx_page_get_ancestor_ids($page_id);
 		$title = $cur_page['mtitle'];

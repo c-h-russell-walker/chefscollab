@@ -20,13 +20,13 @@ if ( function_exists('register_sidebar') ) {
 		'before_title' => '<h2>',
 		'after_title' => '</h2>',
 	));
-	register_sidebar(array(
+	/*register_sidebar(array(
 		'name' => 'Front Right Sidebar',
 		'before_widget' => '<li>', // Removes <li>
 		'after_widget' => '</li>', // Removes </li>
 		'before_title' => '<h2>',
 		'after_title' => '</h2>',
-	));
+	));*/
 }
 
 // Search

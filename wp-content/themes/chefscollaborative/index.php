@@ -40,7 +40,7 @@
 			<?php endif; ?>
 
 			<div class="navigation">
-				<?php posts_nav_link(' &#8212; ', __('&laquo; Previous Page'), __('Next Page &raquo;')); ?>
+				<?php //posts_nav_link(' &#8212; ', __('&laquo; Previous Page'), __('Next Page &raquo;')); ?>
 			</div>
 	</div> <!-- /main -->
 </div> <!-- /content -->
