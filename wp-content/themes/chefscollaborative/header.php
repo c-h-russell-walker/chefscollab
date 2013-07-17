@@ -39,7 +39,6 @@
 
 <div id="wrapper">
 	<nav id="top-nav" class="nav-menu">
-		<ul>
-			<?php wswwpx_fold_page_list('sort_column=menu_order,post_title&title_li=&exclude=3,661,632,670,673,1786,170&depth=1'); ?>
+		<ul><?php wp_nav_menu(array('menu'=>'Top Nav')); ?>
 		</ul>
 	</nav>
