@@ -22,8 +22,9 @@ var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-37131868-1']);   _gaq.pus
 
  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 <script>
-	// if (!$('.current_page_item').hasClass('page_folder'))
-	// 	$('.nav-cont').hide();
+	if (!$('#left .current_page_item').hasClass('page_folder') && 
+		!$('#left .current_page_item').parents().hasClass('child-list'))
+		$('.nav-cont').hide();
 </script>
 
 </body>
