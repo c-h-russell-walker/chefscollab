@@ -111,7 +111,6 @@ ul.readmore {
 	color: #389307;
 }
 
-/** Removes any image borders **/
 img {
 	border: none 0px;
 }
@@ -163,13 +162,9 @@ h1 a img {
 	text-decoration: none;
 }
 
-/** END ADDED **/
-
-
 /* 1) -=-=-=- General selectors -=-=-=- */
 
 body {
-	background: url(images/bg-pattern-lighter.jpg);
 	margin: 0px;
 	padding: 0px;
 	font: 14px/1.3em Frutiger, Univers, "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif; 
@@ -198,8 +193,8 @@ body {
 #header .search {
 	position: absolute;
 	top: 10px;
-	right: 25px;
-	width: 260px;
+	right: 30px;
+	width: 292px;
 }
 
 /* IE 6 positioning fix */
@@ -259,6 +254,16 @@ body {
 	width: 27px;
 	vertical-align: top;
 	background: url(images/icons-twitter.png) no-repeat;
+}
+
+#instagram-header {
+	text-indent: -9999px;
+	margin-left: 5px;
+	display: inline-block;
+	height: 27px;
+	width: 27px;
+	vertical-align: top;
+	background: url(images/icons-instagram.png) no-repeat;
 }
 
 h1 {
@@ -687,21 +692,18 @@ ul li.upcoming h2 img.arrow,
 
 /* subheads for posts, or metadata */
 .main .entrymeta h3 {
-/*	background: url(images/22px-biege-gradient.gif) repeat-x;*/
 	height: 22px;
 	line-height: 24px;
 	font-size: 13px;
 	font-family: Frutiger, Univers, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-weight: normal;
 	text-transform: uppercase;
-	/*color: #fff;*/
 	letter-spacing: 1px;
 	padding: 0 0 0 18px;
 	margin: 1px 0 2px 0;
 }
 
 .main .entry {
-	/*background: url(images/586px-biege-gradient.gif) repeat-x;*/
 	min-height: 200px;
 	padding: 10px 10px 10px 18px;
 }
@@ -946,7 +948,6 @@ a:visited.special {
 	color: #000000;
 }
 
-
 /* 6)-=-=-=- Forms -=-=-=- */
 
 textarea {
@@ -1007,19 +1008,19 @@ input {
 }
 
 .donation li {
-  margin: 5px 0;
-  padding: 0;
-}
+	margin: 5px 0;
+	padding: 0;
+}	
 
 /* 7)-=-=-=- Accessibility -=-=-=- */
 
 #skip {
 	display: none;
-	}
+}
 
 hr {
 	display: none;
-	}
+}
 	
 div#calendar_wrap {
 	margin: -25px 0 0 0;
@@ -1067,7 +1068,6 @@ table#wp-calendar a:hover {
 }
 
 input.cleardefault {
-	/* The javascript will change this color when someone clicks on the field */
 	color: #999;
 }
 
@@ -1080,9 +1080,9 @@ div.aligncenter {
 }
 
 img.alignleft {
-  display: block;
+	display: block;
 	float: left;
-  padding-right: 10px;
+	padding-right: 10px;
 }
 
 .alignleft {
@@ -1117,7 +1117,6 @@ img.alignleft {
 	padding: 0 4px 5px;
 	margin: 0;
 }
-/* End captions & aligment */
 
 /* START TOP NAV STYLES */
 #top-nav {

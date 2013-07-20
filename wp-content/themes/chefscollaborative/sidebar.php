@@ -1,22 +1,24 @@
-<!-- begin left sidebar -->
+<?php
+	global $post; 
+	$id = $post->ID;
+?>
 
+<!-- begin left sidebar -->
 <div id="left" class="column">
-<?php if (is_frontpage()) { ?>
 	<div class="sidebar">
-		<ul>
-			<?php widget_join_now(); ?>
-			<?php widget_newsletter_subscribe(); ?>
-		</ul>
-	</div> <!-- /sidebar front -->
-<?php } else { ?>
-	<div class="sidebar">
-		<ul class="nav-cont">
-			<?php wswwpx_fold_page_list('sort_column=menu_order,post_title&title_li=&exclude=3,661,632,670,673,1786', true); ?>
-		</ul>
-		<ul>
-			<?php widget_newsletter_subscribe(); ?>
-		</ul>
+	<?php if (is_frontpage()) { ?>
+	<ul>
+		<?php widget_join_now(); ?>
+		<?php widget_newsletter_subscribe(); ?>
+	</ul>
+	<?php } else { ?>
+	<ul class="nav-cont">
+		<?php wswwpx_fold_page_list('sort_column=menu_order,post_title&title_li=&exclude=3,661,632,670,673,1786', true); ?>
+	</ul>
+	<ul>
+		<?php widget_newsletter_subscribe(); ?>
+	</ul>
+	<?php } ?>
 	</div> <!-- /sidebar inside -->
-<?php } ?>
 	<div id="navi_end_right"> </div>
 </div> <!-- end left sidebar -->

@@ -9,4 +9,5 @@
 	</form>
 	<a href="https://www.facebook.com/ChefsCollaborative" id="facebook-header" target="_blank">Facebook</a>
 	<a href="https://twitter.com/chefscollab" id="twitter-header" target="_blank">Twitter</a>
+	<a href="http://instagram.com/chefscollab" id="instagram-header" target="_blank">Instagram</a>
 </div>
