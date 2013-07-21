@@ -38,7 +38,6 @@
 <div id="page-wrapper">
 
 <div id="wrapper">
-	<nav id="top-nav" class="nav-menu">
-		<ul><?php wp_nav_menu(array('menu'=>'Top Nav')); ?>
-		</ul>
-	</nav>
+	<div id="top-nav" class="nav-menu">
+		<?php wp_nav_menu(array('menu'=>'Top Nav')); ?>
+	</div>
