@@ -67,7 +67,6 @@ Theme Updated: 7/13/13 Chris R-W c.russell.walker@gmail.com
 #footer {
 	text-align: center;
 	clear: both;
-	margin: 0 auto 50px;
 	color: #333;
 	padding: 5px 15px;
 	font-family: Frutiger, Univers, "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
@@ -75,8 +74,12 @@ Theme Updated: 7/13/13 Chris R-W c.russell.walker@gmail.com
 }
 
 #footer div.cont {
-	margin-bottom: 15px;
 	line-height: 40px;
+}
+
+#footer-image {
+	background: url(images/footer2.jpg) no-repeat;
+	height: 52px;
 }
 
 #footer .menu-bottom-nav-container {
@@ -170,6 +173,7 @@ body {
 	font: 14px/1.3em Frutiger, Univers, "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif; 
 	color: #333;
 	text-align: center;
+	background-color: #edebe9;
 }
 
 #homelink a {

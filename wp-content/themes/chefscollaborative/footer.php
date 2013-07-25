@@ -11,6 +11,8 @@
 		<div style="clear: both"></div>
 	</div> <!-- /footer -->
 
+	<div id="footer-image"></div>
+
 </div> <!-- /page-wrapper -->
 </div> <!-- /page -->
 
