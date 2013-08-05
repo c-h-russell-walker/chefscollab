@@ -1199,3 +1199,13 @@ img.alignleft {
 #left .sidebar .nav-cont li a {
 	height: auto;
 }
+
+#left .sidebar .blog-cont {
+	background-color: #E2E1DD;
+    display: block;
+    margin-right: 23px;
+    margin-top: 12px;
+}
+#left .sidebar .blog-cont h2 {
+	display: none;
+}
