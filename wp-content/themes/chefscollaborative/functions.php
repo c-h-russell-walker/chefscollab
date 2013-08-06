@@ -24,8 +24,8 @@ if ( function_exists('register_sidebar') ) {
 		'name' => 'Front Left Blog',
 		'before_widget' => '<li>', // Removes <li>
 		'after_widget' => '</li>', // Removes </li>
-		'before_title' => '<h2>',
-		'after_title' => '</h2>',
+		'before_title' => '<h4>',
+		'after_title' => '</h4>',
 	));
 	/*register_sidebar(array(
 		'name' => 'Front Right Sidebar',

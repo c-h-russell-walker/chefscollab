@@ -1149,25 +1149,7 @@ img.alignleft {
 	color: #000;
 	text-decoration: none;
 }
-#top-nav .sub-nav a {
-	border: 1px solid black;
-	border-bottom: none;
-	height: 35px;
-	line-height: 35px;
-}
-#top-nav .sub-nav a.last-nav {
-	border-bottom: 1px solid black;
-}
-#top-nav .sub-nav ul li a {
-	border-left: none;
-	color: #000;
-	background-color: #8CAF63;
-}
-#top-nav .sub-nav ul li a:hover {
-	color: #FFF;
-	background-color: #417630;
-}
-
+/* Fold Page List Styles */
 #left .sidebar li.page_item {
 	display: none;
 }
@@ -1198,13 +1180,37 @@ img.alignleft {
 #left .sidebar .nav-cont li a {
 	height: auto;
 }
-
+/* Blog Container Styles */
 #left .sidebar .blog-cont {
 	background-color: #E2E1DD;
     display: block;
     margin-right: 23px;
     margin-top: 12px;
 }
-#left .sidebar .blog-cont h2 {
-	display: none;
+#left .sidebar .blog-cont li {
+	padding: 10px 0 0 10px;
+}
+#left .sidebar .blog-cont ul li {
+	padding: 0;
+}
+#left .sidebar .blog-cont h4 {
+	margin: 0 0 0 7px;
+	font-size: 1.1em;
+}
+#left .sidebar .blog-cont select {
+	margin: 5px 0 5px 5px;
+	max-width: 200px;
+}
+#left .sidebar .blog-cont a {
+	max-width: 200px;
+	height: 18px;
+	color: #000;
+	margin-left: 10px;
+}
+#left .sidebar .blog-cont a:before {
+	content: "- ";
+}
+#left .sidebar .blog-cont a:hover,
+#left .sidebar .blog-cont a:active {
+	color: #417630;
 }
