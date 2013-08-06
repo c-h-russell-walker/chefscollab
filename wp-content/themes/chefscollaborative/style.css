@@ -77,8 +77,8 @@ Theme Updated: 7/13/13 Chris R-W c.russell.walker@gmail.com
 }
 
 #footer-image {
-	background: url(images/footer2.jpg) no-repeat;
-	height: 51px;
+	background: url(images/footer3.jpg) repeat-x;
+	height: 26px;
 }
 
 #footer .menu-bottom-nav-container {
@@ -172,7 +172,6 @@ body {
 	font: 14px/1.3em Frutiger, Univers, "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif; 
 	color: #333;
 	text-align: center;
-	background-color: #edebe9;
 }
 
 #homelink a {
