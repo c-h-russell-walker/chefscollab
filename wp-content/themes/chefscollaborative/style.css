@@ -1203,7 +1203,7 @@ img.alignleft {
 }
 #left .sidebar .blog-cont a {
 	max-width: 200px;
-	height: 18px;
+	height: inherit;
 	color: #000;
 	margin-left: 10px;
 }
