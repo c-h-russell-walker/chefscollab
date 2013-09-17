@@ -8,8 +8,7 @@
 	<div class="sidebar">
 	<?php if (is_frontpage()) { ?>
 	<ul>
-		<?php widget_join_now(); ?>
-		<?php widget_newsletter_subscribe(); ?>
+		<?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('front-left-navigation') ) :      endif; ?>
 	</ul>
 	<?php } else { ?>
 	<ul class="nav-cont">
