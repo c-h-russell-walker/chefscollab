@@ -15,7 +15,7 @@ if (function_exists('add_filter')) {
 if ( function_exists('register_sidebar') ) {
 	register_sidebar(array(
 		'name' => 'Front Left Navigation',
-		'before_widget' => '<li>', // Removes <li>
+		'before_widget' => '<div><li>', // Removes <li>
 		'after_widget' => '</li>', // Removes </li>
 		'before_title' => '<h2>',
 		'after_title' => '</h2>',
