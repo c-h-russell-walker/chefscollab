@@ -1,8 +1,3 @@
-<?php
-	global $post; 
-	$id = $post->ID;
-?>
-
 <!-- begin left sidebar -->
 <div id="left" class="column">
 	<div class="sidebar">
@@ -24,5 +19,4 @@
 	</ul>
 	<?php } ?>
 	</div> <!-- /sidebar inside -->
-	<div id="navi_end_right"> </div>
 </div> <!-- end left sidebar -->
