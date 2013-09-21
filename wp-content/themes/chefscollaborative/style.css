@@ -601,6 +601,11 @@ blockquote {
 	display: inline-block;
 }
 
+.sidebar li.joinus a,
+.sidebar li.donate a {
+	height: 60px;
+}
+
 .sidebar li.local-networks a {
 	height: 150px;
 	background: url(images/local-networks.png) no-repeat 0 center;
@@ -611,11 +616,11 @@ blockquote {
 }
 
 .sidebar li.joinus a {
-	background: url(images/side-buttons-join.png) no-repeat 0 center;
+	background: url(images/side-buttons-join-2.png) no-repeat 0 center;
 }
 
 .sidebar li.joinus a:hover {
-	background: url(images/side-buttons-ROLLOVER-join.png) no-repeat 0 center;
+	background: url(images/side-buttons-ROLLOVER-join-2.png) no-repeat 0 center;
 }
 
 .sidebar li.renew a {
@@ -627,11 +632,11 @@ blockquote {
 }
 
 .sidebar li.donate a {
-	background: url(images/side-buttons-donate.png) no-repeat 0 center;
+	background: url(images/side-buttons-friend.png) no-repeat 0 center;
 }
 
 .sidebar li.donate a:hover {
-	background: url(images/side-buttons-ROLLOVER-donate.png) no-repeat 0 center;
+	background: url(images/side-buttons-ROLLOVER-friend.png) no-repeat 0 center;
 }
 
 .sidebar li.recent ul {
